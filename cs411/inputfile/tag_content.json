@@ -1,0 +1,1091 @@
+﻿[
+{
+    "tagID": 0,
+    "hobby": "sports",
+    "age": 5,
+    "relationship": "children",
+    "budget": 10,
+    "occasion":"birthday"
+ },
+{
+    "tagID": 1,
+    "hobby": "music",
+    "age": 5,
+    "relationship": "children",
+    "budget": 10,
+    "occasion":"birthday"
+ },
+{
+    "tagID": 2,
+    "hobby": "art",
+    "age": 5,
+    "relationship": "children",
+    "budget": 10,
+    "occasion":"birthday"
+},
+
+{
+    "tagID": 3,
+    "hobby": "study",
+    "age": 5,
+    "relationship": "children",
+    "budget": 10,
+    "occasion":"birthday"
+ },
+{
+    "tagID": 4,
+    "hobby": "sports",
+    "age": 5,
+    "relationship": "children",
+    "budget": 50,
+    "occasion":"birthday"
+ },
+{
+    "tagID": 5,
+    "hobby": "music",
+    "age": 5,
+    "relationship": "children",
+    "budget": 50,
+    "occasion":"birthday"
+ },
+{
+    "tagID": 6,
+    "hobby": "art",
+    "age": 5,
+    "relationship": "children",
+    "budget": 50,
+    "occasion":"birthday"
+},
+
+{
+    "tagID": 7,
+    "hobby": "study",
+    "age": 5,
+    "relationship": "children",
+    "budget": 50,
+    "occasion":"birthday"
+ },
+{
+    "tagID": 8,
+    "hobby": "sports",
+    "age": 5,
+    "relationship": "children",
+    "budget": 200,
+    "occasion":"birthday"},
+{
+    "tagID": 9,
+    "hobby": "music",
+    "age": 5,
+    "relationship": "children",
+    "budget": 200,
+    "occasion":"birthday"
+ },
+{
+    "tagID": 10,
+    "hobby": "art",
+    "age": 5,
+    "relationship": "children",
+    "budget": 200,
+    "occasion":"birthday"
+},
+
+{
+    "tagID": 11,
+    "hobby": "study",
+    "age": 5,
+    "relationship": "children",
+    "budget": 200,
+    "occasion":"birthday"
+ },
+{
+    "tagID": 12,
+    "hobby": "sports",
+    "age": 30,
+    "relationship": "children",
+    "budget": 10,
+    "occasion":"birthday"
+ },
+{
+    "tagID": 13,
+    "hobby": "music",
+    "age": 30,
+    "relationship": "children",
+    "budget": 10,
+    "occasion":"birthday"
+ },
+{
+    "tagID": 14,
+    "hobby": "art",
+    "age": 30,
+    "relationship": "children",
+    "budget": 10,
+    "occasion":"birthday"
+},
+
+{
+    "tagID": 15,
+    "hobby": "study",
+    "age": 30,
+    "relationship": "children",
+    "budget": 10,
+    "occasion":"birthday"
+ },
+{
+    "tagID": 16,
+    "hobby": "sports",
+    "age": 30,
+    "relationship": "children",
+    "budget": 50,
+    "occasion":"birthday"
+ },
+{
+    "tagID": 17,
+    "hobby": "music",
+    "age": 30,
+    "relationship": "children",
+    "budget": 50,
+    "occasion":"birthday"
+ },
+{
+    "tagID": 18,
+    "hobby": "art",
+    "age": 30,
+    "relationship": "children",
+    "budget": 50,
+    "occasion":"birthday"
+},
+
+{
+    "tagID": 19,
+    "hobby": "study",
+    "age": 30,
+    "relationship": "children",
+    "budget": 50,
+    "occasion":"birthday"
+ },
+{
+    "tagID": 20,
+    "hobby": "sports",
+    "age": 30,
+    "relationship": "children",
+    "budget": 200,
+    "occasion":"birthday"
+ },
+{
+    "tagID": 21,
+    "hobby": "music",
+    "age": 30,
+    "relationship": "children",
+    "budget": 200,
+    "occasion":"birthday"
+ },
+{
+    "tagID": 22,
+    "hobby": "art",
+    "age": 30,
+    "relationship": "children",
+    "budget": 200,
+    "occasion":"birthday"
+},
+
+{
+    "tagID": 23,
+    "hobby": "study",
+    "age": 30,
+    "relationship": "children",
+    "budget": 200,
+    "occasion":"birthday"
+ },
+{
+    "tagID": 24,
+    "hobby": "sports",
+    "age": 30,
+    "relationship": "friend",
+    "budget": 10,
+    "occasion":"birthday"
+ },
+{
+    "tagID": 25,
+    "hobby": "music",
+    "age": 30,
+    "relationship": "friend",
+    "budget": 10,
+    "occasion":"birthday"
+ },
+{
+    "tagID": 26,
+    "hobby": "art",
+    "age": 30,
+    "relationship": "friend",
+    "budget": 10,
+    "occasion":"birthday"
+},
+
+{
+    "tagID": 27,
+    "hobby": "study",
+    "age": 30,
+    "relationship": "friend",
+    "budget": 10,
+    "occasion":"birthday"
+ },
+{
+    "tagID": 28,
+    "hobby": "sports",
+    "age": 30,
+    "relationship": "friend",
+    "budget": 50,
+    "occasion":"birthday"
+ },
+{
+    "tagID": 29,
+    "hobby": "music",
+    "age": 30,
+    "relationship": "friend",
+    "budget": 50,
+    "occasion":"birthday"
+ },
+{
+    "tagID": 30,
+    "hobby": "art",
+    "age": 30,
+    "relationship": "friend",
+    "budget": 50,
+    "occasion":"birthday"
+},
+
+{
+    "tagID": 31,
+    "hobby": "study",
+    "age": 30,
+    "relationship": "friend",
+    "budget": 50,
+    "occasion":"birthday"
+ },
+{
+    "tagID": 32,
+    "hobby": "sports",
+    "age": 30,
+    "relationship": "friend",
+    "budget": 200,
+    "occasion":"birthday"
+ },
+{
+    "tagID": 33,
+    "hobby": "music",
+    "age": 30,
+    "relationship": "friend",
+    "budget": 200,
+    "occasion":"birthday"
+ },
+{
+    "tagID": 34,
+    "hobby": "art",
+    "age": 30,
+    "relationship": "friend",
+    "budget": 200,
+    "occasion":"birthday"
+},
+
+{
+    "tagID": 35,
+    "hobby": "study",
+    "age": 30,
+    "relationship": "friend",
+    "budget": 200,
+    "occasion":"birthday"
+ },
+{
+    "tagID": 36,
+    "hobby": "sports",
+    "age": 30,
+    "relationship": "lover",
+    "budget": 10,
+    "occasion":"birthday"
+ },
+{
+    "tagID": 37,
+    "hobby": "music",
+    "age": 30,
+    "relationship": "lover",
+    "budget": 10,
+    "occasion":"birthday"
+ },
+{
+    "tagID": 38,
+    "hobby": "art",
+    "age": 30,
+    "relationship": "lover",
+    "budget": 10,
+    "occasion":"birthday"
+},
+
+{
+    "tagID": 39,
+    "hobby": "study",
+    "age": 30,
+    "relationship": "lover",
+    "budget": 10,
+    "occasion":"birthday"
+ },
+{
+    "tagID": 40,
+    "hobby": "sports",
+    "age": 30,
+    "relationship": "lover",
+    "budget": 50,
+    "occasion":"birthday"
+ },
+{
+    "tagID": 41,
+    "hobby": "music",
+    "age": 30,
+    "relationship": "lover",
+    "budget": 50,
+    "occasion":"birthday"
+ },
+{
+    "tagID": 42,
+    "hobby": "art",
+    "age": 30,
+    "relationship": "lover",
+    "budget": 50,
+    "occasion":"birthday"
+},
+
+{
+    "tagID": 43,
+    "hobby": "study",
+    "age": 30,
+    "relationship": "lover",
+    "budget": 50,
+    "occasion":"birthday"
+ },
+{
+    "tagID": 44,
+    "hobby": "sports",
+    "age": 30,
+    "relationship": "lover",
+    "budget": 200,
+    "occasion":"birthday"
+ },
+{
+    "tagID": 45,
+    "hobby": "music",
+    "age": 30,
+    "relationship": "lover",
+    "budget": 200,
+    "occasion":"birthday"
+ },
+{
+    "tagID": 46,
+    "hobby": "art",
+    "age": 30,
+    "relationship": "lover",
+    "budget": 200,
+    "occasion":"birthday"
+},
+
+{
+    "tagID": 47,
+    "hobby": "study",
+    "age": 30,
+    "relationship": "lover",
+    "budget": 200,
+    "occasion":"birthday"
+ },
+{
+    "tagID": 48,
+    "hobby": "sports",
+    "age": 50,
+    "relationship": "children",
+    "budget": 10,
+    "occasion":"birthday"
+ },
+{
+    "tagID": 49,
+    "hobby": "music",
+    "age": 50,
+    "relationship": "children",
+    "budget": 10,
+    "occasion":"birthday"
+ },
+{
+    "tagID": 50,
+    "hobby": "art",
+    "age": 50,
+    "relationship": "children",
+    "budget": 10,
+    "occasion":"birthday"
+},
+
+{
+    "tagID": 51,
+    "hobby": "study",
+    "age": 50,
+    "relationship": "children",
+    "budget": 10,
+    "occasion":"birthday"
+ },
+{
+    "tagID": 52,
+    "hobby": "sports",
+    "age": 50,
+    "relationship": "children",
+    "budget": 50,
+    "occasion":"birthday"
+ },
+{
+    "tagID": 53,
+    "hobby": "music",
+    "age": 50,
+    "relationship": "children",
+    "budget": 50,
+    "occasion":"birthday"
+ },
+{
+    "tagID": 54,
+    "hobby": "art",
+    "age": 50,
+    "relationship": "children",
+    "budget": 50,
+    "occasion":"birthday"
+},
+
+{
+    "tagID": 55,
+    "hobby": "study",
+    "age": 50,
+    "relationship": "children",
+    "budget": 50,
+    "occasion":"birthday"
+ },
+{
+    "tagID": 56,
+    "hobby": "sports",
+    "age": 50,
+    "relationship": "children",
+    "budget": 200,
+    "occasion":"birthday"
+ },
+{
+    "tagID": 57,
+    "hobby": "music",
+    "age": 50,
+    "relationship": "children",
+    "budget": 200,
+    "occasion":"birthday"
+ },
+{
+    "tagID": 58,
+    "hobby": "art",
+    "age": 50,
+    "relationship": "children",
+    "budget": 200,
+    "occasion":"birthday"
+},
+
+{
+    "tagID": 59,
+    "hobby": "study",
+    "age": 50,
+    "relationship": "children",
+    "budget": 200,
+    "occasion":"birthday"
+ },
+{
+    "tagID": 60,
+    "hobby": "sports",
+    "age": 50,
+    "relationship": "friend",
+    "budget": 10,
+    "occasion":"birthday"
+ },
+{
+    "tagID": 61,
+    "hobby": "music",
+    "age": 50,
+    "relationship": "friend",
+    "budget": 10,
+    "occasion":"birthday"
+ },
+{
+    "tagID": 62,
+    "hobby": "art",
+    "age": 50,
+    "relationship": "friend",
+    "budget": 10,
+    "occasion":"birthday"
+},
+
+{
+    "tagID": 63,
+    "hobby": "study",
+    "age": 50,
+    "relationship": "friend",
+    "budget": 10,
+    "occasion":"birthday"
+ },
+{
+    "tagID": 64,
+    "hobby": "sports",
+    "age": 50,
+    "relationship": "friend",
+    "budget": 50,
+    "occasion":"birthday"
+ },
+{
+    "tagID": 65,
+    "hobby": "music",
+    "age": 50,
+    "relationship": "friend",
+    "budget": 50,
+    "occasion":"birthday"
+ },
+{
+    "tagID": 66,
+    "hobby": "art",
+    "age": 50,
+    "relationship": "friend",
+    "budget": 50,
+    "occasion":"birthday"
+},
+
+{
+    "tagID": 67,
+    "hobby": "study",
+    "age": 50,
+    "relationship": "friend",
+    "budget": 50,
+    "occasion":"birthday"
+ },
+{
+    "tagID": 68,
+    "hobby": "sports",
+    "age": 50,
+    "relationship": "friend",
+    "budget": 200,
+    "occasion":"birthday"
+ },
+{
+    "tagID": 69,
+    "hobby": "music",
+    "age": 50,
+    "relationship": "friend",
+    "budget": 200,
+    "occasion":"birthday"
+ },
+{
+    "tagID": 70,
+    "hobby": "art",
+    "age": 50,
+    "relationship": "friend",
+    "budget": 200,
+    "occasion":"birthday"
+},
+
+{
+    "tagID": 71,
+    "hobby": "study",
+    "age": 50,
+    "relationship": "friend",
+    "budget": 200,
+    "occasion":"birthday"
+ },
+{
+    "tagID": 72,
+    "hobby": "sports",
+    "age": 50,
+    "relationship": "lover",
+    "budget": 10,
+    "occasion":"birthday"
+ },
+{
+    "tagID": 73,
+    "hobby": "music",
+    "age": 50,
+    "relationship": "lover",
+    "budget": 10,
+    "occasion":"birthday"
+ },
+{
+    "tagID": 74,
+    "hobby": "art",
+    "age": 50,
+    "relationship": "lover",
+    "budget": 10,
+    "occasion":"birthday"
+},
+
+{
+    "tagID": 75,
+    "hobby": "study",
+    "age": 50,
+    "relationship": "lover",
+    "budget": 10,
+    "occasion":"birthday"
+ },
+{
+    "tagID": 76,
+    "hobby": "sports",
+    "age": 50,
+    "relationship": "lover",
+    "budget": 50,
+    "occasion":"birthday"
+ },
+{
+    "tagID": 77,
+    "hobby": "music",
+    "age": 50,
+    "relationship": "lover",
+    "budget": 50,
+    "occasion":"birthday"
+ },
+{
+    "tagID": 78,
+    "hobby": "art",
+    "age": 50,
+    "relationship": "lover",
+    "budget": 50,
+    "occasion":"birthday"
+},
+
+{
+    "tagID": 79,
+    "hobby": "study",
+    "age": 50,
+    "relationship": "lover",
+    "budget": 50,
+    "occasion":"birthday"
+ },
+{
+    "tagID": 80,
+    "hobby": "sports",
+    "age": 50,
+    "relationship": "lover",
+    "budget": 200,
+    "occasion":"birthday"
+ },
+{
+    "tagID": 81,
+    "hobby": "music",
+    "age": 50,
+    "relationship": "lover",
+    "budget": 200,
+    "occasion":"birthday"
+ },
+{
+    "tagID": 82,
+    "hobby": "art",
+    "age": 50,
+    "relationship": "lover",
+    "budget": 200,
+    "occasion":"birthday"
+},
+
+{
+    "tagID": 83,
+    "hobby": "study",
+    "age": 50,
+    "relationship": "lover",
+    "budget": 200,
+    "occasion":"birthday"
+ },
+{
+    "tagID": 84,
+    "hobby": "sports",
+    "age": 50,
+    "relationship": "parents",
+    "budget": 10,
+    "occasion":"birthday"
+ },
+{
+    "tagID": 85,
+    "hobby": "music",
+    "age": 50,
+    "relationship": "parents",
+    "budget": 10,
+    "occasion":"birthday"
+ },
+{
+    "tagID": 86,
+    "hobby": "art",
+    "age": 50,
+    "relationship": "parents",
+    "budget": 10,
+    "occasion":"birthday"
+},
+
+{
+    "tagID": 87,
+    "hobby": "study",
+    "age": 50,
+    "relationship": "parents",
+    "budget": 10,
+    "occasion":"birthday"
+ },
+{
+    "tagID": 88,
+    "hobby": "sports",
+    "age": 50,
+    "relationship": "parents",
+    "budget": 50,
+    "occasion":"birthday"
+ },
+{
+    "tagID": 89,
+    "hobby": "music",
+    "age": 50,
+    "relationship": "parents",
+    "budget": 50,
+    "occasion":"birthday"
+ },
+{
+    "tagID": 90,
+    "hobby": "art",
+    "age": 50,
+    "relationship": "parents",
+    "budget": 50,
+    "occasion":"birthday"
+ 
+},
+
+{
+    "tagID": 91,
+    "hobby": "study",
+    "age": 50,
+    "relationship": "parents",
+    "budget": 50,
+    "occasion":"birthday"
+ },
+{
+    "tagID": 92,
+    "hobby": "sports",
+    "age": 50,
+    "relationship": "parents",
+    "budget": 200,
+    "occasion":"birthday"
+ },
+{
+    "tagID": 93,
+    "hobby": "music",
+    "age": 50,
+    "relationship": "parents",
+    "budget": 200,
+    "occasion":"birthday"
+ },
+{
+    "tagID": 94,
+    "hobby": "art",
+    "age": 50,
+    "relationship": "parents",
+    "budget": 200,
+    "occasion":"birthday"
+},
+
+{
+    "tagID": 95,
+    "hobby": "study",
+    "age": 50,
+    "relationship": "parents",
+    "budget": 200,
+    "occasion":"birthday"
+ },
+{
+    "tagID": 96,
+    "hobby": "sports",
+    "age": 100,
+    "relationship": "parents",
+    "budget": 10,
+    "occasion":"birthday"
+ },
+{
+    "tagID": 97,
+    "hobby": "music",
+    "age": 100,
+    "relationship": "parents",
+    "budget": 10,
+    "occasion":"birthday"
+ },
+{
+    "tagID": 98,
+    "hobby": "art",
+    "age": 100,
+    "relationship": "parents",
+    "budget": 10,
+    "occasion":"birthday"
+},
+
+{
+    "tagID": 99,
+    "hobby": "study",
+    "age": 100,
+    "relationship": "parents",
+    "budget": 10,
+    "occasion":"birthday"
+ },
+{
+    "tagID": 100,
+    "hobby": "sports",
+    "age": 100,
+    "relationship": "parents",
+    "budget": 50,
+    "occasion":"birthday"
+ },
+{
+    "tagID": 101,
+    "hobby": "music",
+    "age": 100,
+    "relationship": "parents",
+    "budget": 50,
+    "occasion":"birthday"
+ },
+{
+    "tagID": 102,
+    "hobby": "art",
+    "age": 100,
+    "relationship": "parents",
+    "budget": 50,
+    "occasion":"birthday"
+},
+
+{
+    "tagID": 103,
+    "hobby": "study",
+    "age": 100,
+    "relationship": "parents",
+    "budget": 50,
+    "occasion":"birthday"
+ },
+{
+    "tagID": 104,
+    "hobby": "sports",
+    "age": 100,
+    "relationship": "parents",
+    "budget": 200,
+    "occasion":"birthday"
+ },
+{
+    "tagID": 105,
+    "hobby": "music",
+    "age": 100,
+    "relationship": "parents",
+    "budget": 200,
+    "occasion":"birthday"
+ },
+{
+    "tagID": 106,
+    "hobby": "art",
+    "age": 100,
+    "relationship": "parents",
+    "budget": 200,
+    "occasion":"birthday"
+},
+
+{
+    "tagID": 107,
+    "hobby": "study",
+    "age": 100,
+    "relationship": "parents",
+    "budget": 200,
+    "occasion":"birthday"
+ },
+{
+    "tagID": 108,
+    "hobby": "sports",
+    "age": 100,
+    "relationship": "friend",
+    "budget": 10,
+    "occasion":"birthday"
+ },
+{
+    "tagID": 109,
+    "hobby": "music",
+    "age": 100,
+    "relationship": "friend",
+    "budget": 10,
+    "occasion":"birthday"
+ },
+{
+    "tagID": 110,
+    "hobby": "art",
+    "age": 100,
+    "relationship": "friend",
+    "budget": 10,
+    "occasion":"birthday"
+},
+
+{
+    "tagID": 111,
+    "hobby": "study",
+    "age": 100,
+    "relationship": "friend",
+    "budget": 10,
+    "occasion":"birthday"
+ },
+{
+    "tagID": 112,
+    "hobby": "sports",
+    "age": 100,
+    "relationship": "friend",
+    "budget": 50,
+    "occasion":"birthday"
+ },
+{
+    "tagID": 113,
+    "hobby": "music",
+    "age": 100,
+    "relationship": "friend",
+    "budget": 50,
+    "occasion":"birthday"
+ },
+{
+    "tagID": 114,
+    "hobby": "art",
+    "age": 100,
+    "relationship": "friend",
+    "budget": 50,
+    "occasion":"birthday"
+},
+
+{
+    "tagID": 115,
+    "hobby": "study",
+    "age": 100,
+    "relationship": "friend",
+    "budget": 50,
+    "occasion":"birthday"
+ },
+{
+    "tagID": 116,
+    "hobby": "sports",
+    "age": 100,
+    "relationship": "friend",
+    "budget": 200,
+    "occasion":"birthday"
+ },
+{
+    "tagID": 117,
+    "hobby": "music",
+    "age": 100,
+    "relationship": "friend",
+    "budget": 200,
+    "occasion":"birthday"
+ },
+{
+    "tagID": 118,
+    "hobby": "art",
+    "age": 100,
+    "relationship": "friend",
+    "budget": 200,
+    "occasion":"birthday"
+},
+
+{
+    "tagID": 119,
+    "hobby": "study",
+    "age": 100,
+    "relationship": "friend",
+    "budget": 200,
+    "occasion":"birthday"
+ },
+{
+    "tagID": 120,
+    "hobby": "sports",
+    "age": 100,
+    "relationship": "lover",
+    "budget": 10,
+    "occasion":"birthday"
+ },
+{
+    "tagID": 121,
+    "hobby": "music",
+    "age": 100,
+    "relationship": "lover",
+    "budget": 10,
+    "occasion":"birthday"
+ },
+{
+    "tagID": 122,
+    "hobby": "art",
+    "age": 100,
+    "relationship": "lover",
+    "budget": 10,
+    "occasion":"birthday"
+},
+
+{
+    "tagID": 123,
+    "hobby": "study",
+    "age": 100,
+    "relationship": "lover",
+    "budget": 10,
+    "occasion":"birthday"
+ },
+{
+    "tagID": 124,
+    "hobby": "sports",
+    "age": 100,
+    "relationship": "lover",
+    "budget": 50,
+    "occasion":"birthday"
+ },
+{
+    "tagID": 125,
+    "hobby": "music",
+    "age": 100,
+    "relationship": "lover",
+    "budget": 50,
+    "occasion":"birthday"
+ },
+{
+    "tagID": 126,
+    "hobby": "art",
+    "age": 100,
+    "relationship": "lover",
+    "budget": 50,
+    "occasion":"birthday"
+},
+
+{
+    "tagID": 127,
+    "hobby": "study",
+    "age": 100,
+    "relationship": "lover",
+    "budget": 50,
+    "occasion":"birthday"
+ },
+{
+    "tagID": 128,
+    "hobby": "sports",
+    "age": 100,
+    "relationship": "lover",
+    "budget": 200,
+    "occasion":"birthday"
+ },
+{
+    "tagID": 129,
+    "hobby": "music",
+    "age": 100,
+    "relationship": "lover",
+    "budget": 200,
+    "occasion":"birthday"
+ },
+{
+    "tagID": 130,
+    "hobby": "art",
+    "age": 100,
+    "relationship": "lover",
+    "budget": 200,
+    "occasion":"birthday"
+},
+
+{
+    "tagID": 131,
+    "hobby": "study",
+    "age": 100,
+    "relationship": "lover",
+    "budget": 200,
+    "occasion":"birthday"
+ }
+]

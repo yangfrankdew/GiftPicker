@@ -1,0 +1,1442 @@
+﻿[
+    {
+        "id": 0,
+        "productID": 0,
+        "tagID": 0,
+        "shoppingplatform": "walmart",
+        "price": 4.88,
+        "weblink": "https://www.walmart.com/ip/Franklin-Sports-MLS-Soccer-Ball-Size-1/55456569",
+        "productname": "soccer ball",
+        "imagelink": "https://i5.walmartimages.com/asr/4ef4ff17-bc7c-4ca0-93b6-e248c922032c_1.9a8b010e4c36fab3cc51b3ba695ce662.jpeg?odnWidth=undefined&odnHeight=undefined&odnBg=ffffff"
+    },
+    {
+        "id": 1,
+        "productID": 1,
+        "tagID": 1,
+        "shoppingplatform": "amazon",
+        "price": 4.99,
+        "weblink": "https://www.amazon.com/COMUSTER-Survival-Aluminum-Emergency-Whistles/dp/B07BRZHLYH/ref=sr_1_11?dchild=1&keywords=whistle&qid=1595482478&sr=8-11",
+        "productname": "whistle",
+        "imagelink": "valuehttps://contents.mediadecathlon.com/p1686207/67dc05955abc2789432ab8da76e46ecc/p1686207.jpg?f=650x650"
+    },
+    {
+        "id": 2,
+        "productID": 2,
+        "tagID": 2,
+        "shoppingplatform": "staples",
+        "price": 3,
+        "weblink": "https://www.staples.com/Crayola-Colored-Pencils-24-Box/product_475715",
+        "productname": "colored pencils ",
+        "imagelink": "https://i5.walmartimages.com/asr/1c56220a-97e2-4b8b-bb29-8aee38d84ade_1.6bb5e62556197d1f26cf5a352f646a40.jpeg"
+    },
+    {
+        "id": 3,
+        "productID": 3,
+        "tagID": 3,
+        "shoppingplatform": "staples",
+        "price": 0.75,
+        "weblink": "https://www.staples.com/Staples-Pink-Wedge-Erasers-3-Pack/product_271031",
+        "productname": "eraser ",
+        "imagelink": "https://s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/SM0388390_small_eraser.jpg8aee38d84ade_1.6bb5e62556197d1f26cf5a352f646a40.jpeg"
+    },
+    {
+        "id": 4,
+        "productID": 4,
+        "tagID": 4,
+        "shoppingplatform": "walmart",
+        "price": 14.99,
+        "weblink": "https://www.walmart.com/ip/Kid-Girls-Chic-Rash-Guard-Swimsuit-Pool-Party-Swim-Wear-Beach-Bathing-Suit-Pink-Unicorn-5/945303291",
+        "productname": "swimsuit",
+        "imagelink": "https://i5.walmartimages.com/asr/6e3054cb-174f-4c4a-8116-98c57b8ff469.264a8d178975fab2157e5e3679749076.jpeg?odnWidth=undefined&odnHeight=undefined&odnBg=ffffff"
+    },
+    {
+        "id": 5,
+        "productID": 5,
+        "tagID": 5,
+        "shoppingplatform": "ebay",
+        "price": 31,
+        "weblink": "https://www.ebay.com/itm/Geimenhardt-FLUTE/264798784153?hash=item3da73cca99:g:42EAAOSwM8xfEPwD",
+        "productname": "flute",
+        "imagelink": "https://i.ebayimg.com/images/g/NZYAAOSwwRpeWTMP/s-l640.jpg"
+    },
+    {
+        "id": 6,
+        "productID": 6,
+        "tagID": 6,
+        "shoppingplatform": "staples",
+        "price": 23.29,
+        "weblink": "https://www.ebay.com/itm/Geimenhardt-FLUTE/264798784153?hash=item3da73cca99:g:42EAAOSwM8xfEPwD",
+        "productname": "washable ready-to-use paint",
+        "imagelink": "https://m.media-amazon.com/images/I/4131FP0xFgL._AC_UY218_.jpg"
+    },
+    {
+        "id": 7,
+        "productID": 7,
+        "tagID": 7,
+        "shoppingplatform": "staples",
+        "price": 13.99,
+        "weblink": "https://www.staples.com/Sharpie-Color-Burst-Permanent-Markers-Fine-Point-Assorted-Colors-24-Pack-1949557/product_569443",
+        "productname": "color marker",
+        "imagelink": "https://images-na.ssl-images-amazon.com/images/I/51I-zjtuypL._AC_SY355_.jpg"
+    },
+    {
+        "id": 8,
+        "productID": 8,
+        "tagID": 7,
+        "shoppingplatform": "staples",
+        "price": 10,
+        "weblink": "https://www.staples.com/Post-it-Notes-Canary-Yellow-3-x-3-12-Pads-Pack-654-12YW/product_130005",
+        "productname": "sticky notes",
+        "imagelink": "https://target.scene7.com/is/image/Target/GUEST_bdb3826f-c485-494b-909a-b6b45f710736?wid=488&hei=488&fmt=pjpeg"
+    },
+    {
+        "id": 9,
+        "productID": 9,
+        "tagID": 8,
+        "shoppingplatform": "walmart",
+        "price": 84,
+        "weblink": "https://www.walmart.com/ip/Yamaha-12-Moto-BMX-Boys-Bike-Blue/17242520",
+        "productname": "kids' bike",
+        "imagelink": "https://s3.amazonaws.com/images.ecwid.com/images/9969015/522763569.jpg"
+    },
+    {
+        "id": 10,
+        "productID": 10,
+        "tagID": 9,
+        "shoppingplatform": "kohls",
+        "price": 169.99,
+        "weblink": "https://www.kohls.com/product/prd-3940419/rock-jam-61-keyboard-superkit-with-bluetooth.jsp?prdPV=1",
+        "productname": "keyboard superKit",
+        "imagelink": "https://i.pinimg.com/originals/da/36/b9/da36b9bcfb5de1a34e294db12c0f0e29.jpg"
+    },
+    {
+        "id": 11,
+        "productID": 11,
+        "tagID": 10,
+        "shoppingplatform": "target",
+        "price": 24.99,
+        "weblink": "https://www.target.com/p/kid-made-modern-1000pc-crazy-crafts-art-case/-/A-17088973",
+        "productname": "kids' crafts art case",
+        "imagelink": "https://target.scene7.com/is/image/Target/GUEST_2e0d4001-711e-4c3d-8671-b4acc3c1dff1?fmt=webp&wid=1400&qlt=80"
+    },
+    {
+        "id": 12,
+        "productID": 12,
+        "tagID": 11,
+        "shoppingplatform": "staples",
+        "price": 152.19,
+        "weblink": "https://www.staples.com/Baxton-Studio-New-43-2-W-x-21-75-D-Desk-Brown-5389-STPL/product_24122282",
+        "productname": "study desk",
+        "imagelink": "https://cdn.shopify.com/s/files/1/2525/8672/products/hipkids-leon-kids-study-desk-14387792707631_1000x.jpg?v=1587945961"
+    },
+    {
+        "id": 13,
+        "productID": 13,
+        "tagID": 12,
+        "shoppingplatform": "targets",
+        "price": 7.99,
+        "weblink": "https://www.target.com/p/franklin-sports-mlb-oversized-foam-bat-and-ball/-/A-51314014",
+        "productname": "foam baseball bat and ball",
+        "imagelink": "https://images-na.ssl-images-amazon.com/images/I/71r7V4YW5UL._AC_SL1500_.jpg"
+    },
+    {
+        "id": 14,
+        "productID": 14,
+        "tagID": 13,
+        "shoppingplatform": "ebay",
+        "price": 3.99,
+        "weblink": "https://www.ebay.com/itm/KID-HIP-Personalized-Name-Natalia-CD-Hear-Your-Childs-Name-50x-In-The-Music/402335281612?hash=item5dad0d31cc:g:62YAAOSwp~tfGLZo",
+        "productname": "CD for kids",
+        "imagelink": "https://i.ebayimg.com/images/g/62YAAOSwp~tfGLZo/s-l500.jpg"
+    },
+    {
+        "id": 15,
+        "productID": 15,
+        "tagID": 14,
+        "shoppingplatform": "staples",
+        "price": 4.49,
+        "weblink": "https://www.staples.com/inkology-shrink-art-set-034-1/product_24447849",
+        "productname": "shrink art set",
+        "imagelink": "https://s3.distributorcentral.com/uploads/0/4/04B8883D08A99FAEB09A35569264B7E8.jpg"
+    },
+    {
+        "id": 16,
+        "productID": 16,
+        "tagID": 15,
+        "shoppingplatform": "target",
+        "price": 7,
+        "weblink": "https://www.target.com/p/task-table-lamp-includes-energy-efficient-light-bulb-room-essentials/-/A-76524556?preselect=78654446#lnk=sametab",
+        "productname": "table lamp",
+        "imagelink": "https://target.scene7.com/is/image/Target/GUEST_fbb2b1bd-ccd1-44c3-b473-8f745debb06b?fmt=webp&wid=1400&qlt=80"
+    },
+    {
+        "id": 17,
+        "productID": 17,
+        "tagID": 15,
+        "shoppingplatform": "staples",
+        "price": 1.49,
+        "weblink": "https://www.staples.com/Staples-1-Subject-Notebook-Wide-Ruled-8-x-10-1-2-Red/product_132714",
+        "productname": "notebook",
+        "imagelink": "https://www.kikki-k.com/on/demandware.static/-/Sites-kikki-master-catalogue/default/dw0c35c0bd/images/11511401/11511401-almond.jpg"
+    },
+    {
+        "id": 18,
+        "productID": 18,
+        "tagID": 16,
+        "shoppingplatform": "walmart",
+        "price": 14.96,
+        "weblink": "https://www.walmart.com/ip/Penn-Everywhere-Table-Tennis-Net-Post-Set-with-Weather-Resistant-Paddles/455823873",
+        "productname": "table tennis set",
+        "imagelink": "https://i5.walmartimages.com/asr/0547bd4e-cecf-4ed3-a9a7-b661721e3dec.e3097ce7639b784542546c88f5e9524c.png?odnWidth=undefined&odnHeight=undefined&odnBg=ffffff"
+    },
+    {
+        "id": 19,
+        "productID": 19,
+        "tagID": 17,
+        "shoppingplatform": "kohls",
+        "price": 19.99,
+        "weblink": "https://www.kohls.com/product/prd-1625557/vtech-kidibeats-drum-set.jsp?prdPV=5",
+        "productname": "kids drum set",
+        "imagelink": "https://media.kohlsimg.com/is/image/kohls/1625557?wid=2048&hei=2048&op_sharpen=1"
+    },
+    {
+        "id": 20,
+        "productID": 20,
+        "tagID": 18,
+        "shoppingplatform": "walmart",
+        "price": 19.97,
+        "weblink": "https://www.walmart.com/ip/Crayola-Assorted-Zigzag-Inspiration-Art-Case-140-Piece-Art-Set-for-Kids/519838436",
+        "productname": "kids art set",
+        "imagelink": "https://i5.walmartimages.com/asr/53f230c7-1921-4e31-aa5e-cbfad9f435ff_2.929d4e262cccc82640b1d298f4f0f489.jpeg?odnWidth=undefined&odnHeight=undefined&odnBg=ffffff"
+    },
+    {
+        "id": 21,
+        "productID": 21,
+        "tagID": 19,
+        "shoppingplatform": "staples",
+        "price": 12.49,
+        "weblink": "https://www.staples.com/minecraft-fortnite-multiplier-backpack-loot-llama-fn1000-421/product_24385488",
+        "productname": "backpack",
+        "imagelink": "https://images-na.ssl-images-amazon.com/images/I/61eeBhB4LKL._AC_UX385_.jpg"
+    },
+    {
+        "id": 22,
+        "productID": 22,
+        "tagID": 20,
+        "shoppingplatform": "walmart",
+        "price": 52.99,
+        "weblink": "https://www.walmart.com/ip/Serene-Life-Sports-Exercise-Spring-less-Kid-Size-Trampoline/641874863",
+        "productname": "kid size trampoline",
+        "imagelink": "https://i5.walmartimages.com/asr/a21dadf7-67dc-460a-b327-94a29c8ca659_1.75b8d4e3a010d979be6d594486d4a62c.jpeg?odnWidth=undefined&odnHeight=undefined&odnBg=ffffff"
+    },
+    {
+        "id": 23,
+        "productID": 23,
+        "tagID": 21,
+        "shoppingplatform": "amazon",
+        "price": 129.99,
+        "weblink": "https://www.amazon.com/Alesis-Melody-MKII-Built-Headphones/dp/B07987K4F5/ref=sxin_9?ascsubtag=amzn1.osa.61323fd5-a6ea-4679-9a29-6e23abb06db6.ATVPDKIKX0DER.en_US&creativeASIN=B07987K4F5&cv_ct_cx=music+instruments&cv_ct_id=amzn1.osa.61323fd5-a6ea-4679-9a29-6e23abb06db6.ATVPDKIKX0DER.en_US&cv_ct_pg=search&cv_ct_wn=osp-single-source&dchild=1&keywords=music+instruments&linkCode=oas&pd_rd_i=B07987K4F5&pd_rd_r=d969f4f9-688b-452f-99ff-1c29b2a990a6&pd_rd_w=g6kGz&pd_rd_wg=W47OZ&pf_rd_p=76540515-1aa7-4007-99bf-d21bc7d2acc8&pf_rd_r=C93P5EDM8TMC2CQAEKY1&qid=1595502861&sr=1-3-72d6bf18-a4db-4490-a794-9cd9552ac58d&tag=momtastic-tca-20",
+        "productname": "portable keyboard",
+        "imagelink": "https://images-na.ssl-images-amazon.com/images/I/810vuEXdrgL._AC_SL1500_.jpg"
+    },
+    {
+        "id": 24,
+        "productID": 24,
+        "tagID": 22,
+        "shoppingplatform": "walmart",
+        "price": 53.64,
+        "weblink": "https://www.walmart.com/ip/Art-Advantage-Wood-Art-Box-Easel-Acrylic-Paint-Set/39104351",
+        "productname": "art box for school",
+        "imagelink": "https://i5.walmartimages.com/asr/f91b1f4a-ad95-4dbf-8528-a774c4206108_1.6a828f1cb84b50aabd6b613c418380b2.jpeg?odnWidth=undefined&odnHeight=undefined&odnBg=ffffff"
+    },
+    {
+        "id": 25,
+        "productID": 25,
+        "tagID": 23,
+        "shoppingplatform": "staples",
+        "price": 84.99,
+        "weblink": "https://www.staples.com/Cross-Classic-Century-Ballpoint-Pen-7mm-Pencil-Set-Classic-Black/product_821681",
+        "productname": "ballpoint pen",
+        "imagelink": "https://www.quill.com/is/image/Quill/s1090876_s7?$img400$"
+    },
+    {
+        "id": 26,
+        "productID": 26,
+        "tagID": 23,
+        "shoppingplatform": "ebay",
+        "price": 137.99,
+        "weblink": "https://www.ebay.com/itm/Writing-Table-Computer-Desk-Laptop-Pc-Furniture-Wood-Workstation-Study-Office/312713147431?hash=item48cf27f427:g:M5sAAOSw9s5egYhH",
+        "productname": "writing table",
+        "imagelink": "https://i.ebayimg.com/images/g/M5sAAOSw9s5egYhH/s-l1600.jpg"
+    },
+    {
+        "id": 27,
+        "productID": 27,
+        "tagID": 24,
+        "shoppingplatform": "walmart",
+        "price": 9.98,
+        "weblink": "https://www.walmart.com/ip/Baden-Crossover-Indoor-Outdoor-Basketball-Black-Orange-Size-6/54134478",
+        "productname": "basketball",
+        "imagelink": "https://i5.walmartimages.com/asr/36bbd7d4-caa1-404d-bc99-e9cf223f90c1_3.724230ce327c6b86b7f756b743dac16a.png?odnWidth=undefined&odnHeight=undefined&odnBg=ffffff"
+    },
+    {
+        "id": 28,
+        "productID": 28,
+        "tagID": 25,
+        "shoppingplatform": "amazon",
+        "price": 9.99,
+        "weblink": "https://www.amazon.com/MUNSKT-Headphones-Microphone-Isolating-Smartphones/dp/B07XN1BMFN/ref=sr_1_28_sspa?dchild=1&keywords=earpod&qid=1595505061&sr=8-28-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyQTFLV0FMMjNZQlBEJmVuY3J5cHRlZElkPUEwODMyMzc0MUkzSE9IUUdBUldONCZlbmNyeXB0ZWRBZElkPUEwOTA4OTQyMVdOVUVMS1VaR1o4NSZ3aWRnZXROYW1lPXNwX210ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=",
+        "productname": "headphone",
+        "imagelink": "https://images-na.ssl-images-amazon.com/images/I/71-tOGXqvbL._AC_SL1500_.jpg"
+    },
+    {
+        "id": 29,
+        "productID": 29,
+        "tagID": 26,
+        "shoppingplatform": "staples",
+        "price": 7.29,
+        "weblink": "https://www.staples.com/Timeless-Creations-Mandala-Designs-Coloring-Book/product_2103865",
+        "productname": "coloring book",
+        "imagelink": "https://target.scene7.com/is/image/Target/GUEST_91030138-c9f9-4a4b-b638-939330598055?wid=488&hei=488&fmt=pjpeg"
+    },
+    {
+        "id": 30,
+        "productID": 30,
+        "tagID": 27,
+        "shoppingplatform": "amazon",
+        "price": 6.1,
+        "weblink": "https://www.amazon.com/SUNJIANG-Memory-Pendrives-Business-USB2-0/dp/B083TGLXX1/ref=sr_1_4?dchild=1&keywords=u+disk&qid=1595505499&sr=8-4",
+        "productname": "U disk",
+        "imagelink": "https://images-na.ssl-images-amazon.com/images/I/51B%2B%2BZ2lMxL._AC_SL1200_.jpg"
+    },
+    {
+        "id": 31,
+        "productID": 31,
+        "tagID": 28,
+        "shoppingplatform": "addidas",
+        "price": 48,
+        "weblink": "https://www.adidas.com/us/stan-smith-shoes/EH1476.html",
+        "productname": "walking shoes",
+        "imagelink": "https://assets.adidas.com/images/h_2000,f_auto,q_auto:sensitive,fl_lossy/63a9cfaf7d5a413ca654ab2100fbed2b_9366/Stan_Smith_Shoes_Black_EH1476_EH1476_01_standard.jpg"
+    },
+    {
+        "id": 32,
+        "productID": 32,
+        "tagID": 29,
+        "shoppingplatform": "ebay",
+        "price": 36.83,
+        "weblink": "https://www.ebay.com/itm/Beginners-Acoustic-Guitar-w-Guitar-Case-Strap-Tuner-Pick-Steel-Strings-Blue/181779578446?hash=item2a52e83e4e:g:bjUAAOSwHLFdsTWv",
+        "productname": "guitar",
+        "imagelink": "https://i.ebayimg.com/images/g/bjUAAOSwHLFdsTWv/s-l1600.jpg"
+    },
+    {
+        "id": 33,
+        "productID": 33,
+        "tagID": 30,
+        "shoppingplatform": "amazon",
+        "price": 26.99,
+        "weblink": "https://www.amazon.com/Abstract-Mountain-Paintings-Geometry-Decoration/dp/B07L5758YC/ref=sxin_7?ascsubtag=amzn1.osa.9620ff11-76ea-499a-a453-5062cd164b6c.ATVPDKIKX0DER.en_US&creativeASIN=B07L5758YC&cv_ct_cx=painting&cv_ct_id=amzn1.osa.9620ff11-76ea-499a-a453-5062cd164b6c.ATVPDKIKX0DER.en_US&cv_ct_pg=search&cv_ct_wn=osp-single-source&dchild=1&keywords=painting&linkCode=oas&pd_rd_i=B07L5758YC&pd_rd_r=c14d7d54-b07d-4cd0-b3f4-6863e2343f8b&pd_rd_w=WOSbG&pd_rd_wg=tORQe&pf_rd_p=76540515-1aa7-4007-99bf-d21bc7d2acc8&pf_rd_r=8QATW1JR135BZRDDPJ63&qid=1595505871&sr=1-3-72d6bf18-a4db-4490-a794-9cd9552ac58d&tag=scrippsonsite-20",
+        "productname": "art painting",
+        "imagelink": "https://images-na.ssl-images-amazon.com/images/I/61NT-Q%2BNO5L._AC_SL1000_.jpg"
+    },
+    {
+        "id": 34,
+        "productID": 34,
+        "tagID": 31,
+        "shoppingplatform": "ebay",
+        "price": 39.98,
+        "weblink": "https://www.ebay.com/itm/Brand-New-Canon-PIXMA-MG2120-All-In-One-Inkjet-Printer-No-Inks/324230073502?epid=111583805&hash=item4b7d9e4c9e:g:HsIAAOSw-vlVmWR6",
+        "productname": "inkjet printer",
+        "imagelink": "https://i.ebayimg.com/images/g/HsIAAOSw-vlVmWR6/s-l1600.jpg"
+    },
+    {
+        "id": 35,
+        "productID": 35,
+        "tagID": 32,
+        "shoppingplatform": "nike",
+        "price": 160,
+        "weblink": "https://www.nike.com/t/air-zoom-unvrs-flyease-basketball-shoe-29tFGs/CQ6422-600",
+        "productname": "basketball shoe",
+        "imagelink": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,b_rgb:f5f5f5/cc5ab342-de8d-4feb-accd-0e3f83f41e06/air-zoom-unvrs-flyease-basketball-shoe-29tFGs.jpg"
+    },
+    {
+        "id": 36,
+        "productID": 36,
+        "tagID": 32,
+        "shoppingplatform": "superdry",
+        "price": 64.95,
+        "weblink": "https://www.superdry.com/us/mens/new-in/details/179620/orange-label-classic-hoodie--red",
+        "productname": "hoodie",
+        "imagelink": "https://image1.superdry.com/static/images/optimised/zoom/upload9223368955665740225.jpg"
+    },
+    {
+        "id": 37,
+        "productID": 37,
+        "tagID": 33,
+        "shoppingplatform": "macys",
+        "price": 119.95,
+        "weblink": "https://www.macys.com/shop/product/jbl-flip-5-portable-waterproof-speaker?ID=10188676&CategoryID=22672&swatchColor=Black",
+        "productname": "portable waterproof speaker",
+        "imagelink": "https://slimages.macysassets.com/is/image/MCY/products/3/optimized/15176953_fpx.tif?op_sharpen=1&wid=1230&hei=1500&fit=fit,1&$filterxlrg$"
+    },
+    {
+        "id": 38,
+        "productID": 38,
+        "tagID": 34,
+        "shoppingplatform": "kohls",
+        "price": 123.24,
+        "weblink": "https://www.kohls.com/product/prd-2678923/metaverse-art-brooklyn-bridge-skyline-canvas-wall-art.jsp?prdPV=292",
+        "productname": "canvas wall art",
+        "imagelink": "https://media.kohlsimg.com/is/image/kohls/2678923?wid=2048&hei=2048&op_sharpen=1"
+    },
+    {
+        "id": 39,
+        "productID": 39,
+        "tagID": 35,
+        "shoppingplatform": "amazon",
+        "price": 99.99,
+        "weblink": "https://www.amazon.com/All-new-Kindle-Paperwhite-Waterproof-Storage/dp/B07CXG6C9W/ref=sr_1_1?dchild=1&keywords=kindle&qid=1595506619&s=home-garden&sr=1-1",
+        "productname": "kindle paperwhite",
+        "imagelink": "https://images-na.ssl-images-amazon.com/images/I/61T7vSMjrAL._AC_SL1000_.jpg"
+    },
+    {
+        "id": 40,
+        "productID": 40,
+        "tagID": 36,
+        "shoppingplatform": "decathlon",
+        "price": 7.99,
+        "weblink": "https://www.decathlon.com/collections/fitness/products/mens-cardio-fitness-t-shirt-fts-100-ss19?",
+        "productname": "T-shirt",
+        "imagelink": "https://cdn.shopify.com/s/files/1/1330/6287/products/DOMYOS_20Tee_20shirt_20FTS_20100_20H_20Gris_20_7C_20PSHOT_812x.progressive.jpg?v=1595476236"
+    },
+    {
+        "id": 41,
+        "productID": 41,
+        "tagID": 37,
+        "shoppingplatform": "ebay",
+        "price": 7.99,
+        "weblink": "https://www.ebay.com/itm/Lady-Gaga-Chromatica-CD-Brand-New-Factory-Sealed-Fast-Free-Shipping/303589069160?epid=8038349553&hash=item46af519168:g:LRkAAOSwhvZe29wp:sc:USPSFirstClass!48105!US!-1",
+        "productname": "music CD",
+        "imagelink": "https://i.ebayimg.com/images/g/LRkAAOSwhvZe29wp/s-l1600.jpg"
+    },
+    {
+        "id": 42,
+        "productID": 42,
+        "tagID": 38,
+        "shoppingplatform": "walmart",
+        "price": 5.48,
+        "weblink": "https://www.walmart.com/ip/Strathmore-200-Series-Sketch-Pad-50-Lbs-Acid-Free-9-x-12-100-Sheets/35656330?selected=true",
+        "productname": "sketch pad",
+        "imagelink": "https://m.media-amazon.com/images/I/71+QK5pJQmL._AC_SS350_.jpg"
+    },
+    {
+        "id": 43,
+        "productID": 43,
+        "tagID": 39,
+        "shoppingplatform": "staples",
+        "price": 8.73,
+        "weblink": "https://www.staples.com/Pentel-Sharp-Mechanical-Pencils-7mm-Blue-Barrel-2-Pack/product_270835?akamai-feo=off",
+        "productname": "mechanical pencil",
+        "imagelink": "https://www.quill.com/is/image/Quill/s0191198_s7?$img400$"
+    },
+    {
+        "id": 44,
+        "productID": 44,
+        "tagID": 40,
+        "shoppingplatform": "decathlon",
+        "price": 34.99,
+        "weblink": "https://www.decathlon.com/products/gentle-yoga-mat-comfort-8-mm-blue?adept-product=gentle-yoga-mat-comfort-8-mm-blue&variant=20056307892286&adept_product_id=gentle-yoga-mat-comfort-8-mm-blue&source=search",
+        "productname": "yoga mat",
+        "imagelink": "https://cdn.shopify.com/s/files/1/1330/6287/products/SOFT_20YOGA_20MAT_20COMFORT_208_20MM_20Jungle_20_7C_20002_20_7C_20PSHOT_20_7023c08e-e016-479c-bae5-efbce4d05108_812x.progressive.jpg?v=1595038784"
+    },
+    {
+        "id": 45,
+        "productID": 45,
+        "tagID": 40,
+        "shoppingplatform": "addidas",
+        "price": 45,
+        "weblink": "https://www.adidas.com/us/terrex-agravic-all-around-tee/FJ9459.html",
+        "productname": "T-shirt",
+        "imagelink": "https://assets.adidas.com/images/h_2000,f_auto,q_auto:sensitive,fl_lossy/9a23fbe5bc52429fbdbbaae100e3cf93_9366/Terrex_Agravic_All_Around_Tee_White_FJ9459_FJ9459_21_model.jpg"
+    },
+    {
+        "id": 46,
+        "productID": 46,
+        "tagID": 41,
+        "shoppingplatform": "amazon",
+        "price": 12.88,
+        "weblink": "https://www.amazon.com/Sunshine-Engraved-Birthday-Christmas-Valentines/dp/B07QQ14L9V/ref=sr_1_3?dchild=1&keywords=music+box&qid=1595510862&s=home-garden&sr=1-3",
+        "productname": "music box",
+        "imagelink": "https://images-na.ssl-images-amazon.com/images/I/71qm4HYzHmL._AC_SL1500_.jpg"
+    },
+    {
+        "id": 47,
+        "productID": 47,
+        "tagID": 42,
+        "shoppingplatform": "kohls",
+        "price": 50,
+        "weblink": "https://www.kohls.com/product/prd-3891734/lovepop-rose-bouquet-red-greeting-card.jsp?prdPV=11",
+        "productname": "greeting card",
+        "imagelink": "https://media.kohlsimg.com/is/image/kohls/3891734?wid=2048&hei=2048&op_sharpen=1"
+    },
+    {
+        "id": 48,
+        "productID": 48,
+        "tagID": 43,
+        "shoppingplatform": "staples",
+        "price": 12.99,
+        "weblink": "https://www.staples.com/Texas-Instruments-TI-30XIIS-Scientific-Calculator-Blue/product_382647",
+        "productname": "calculator",
+        "imagelink": "https://i5.walmartimages.com/asr/486f4b1a-ee8f-441d-886f-af71524f2025_1.19e7ccc396d92b249397836b73ea01c0.jpeg"
+    },
+    {
+        "id": 49,
+        "productID": 49,
+        "tagID": 44,
+        "shoppingplatform": "addidas",
+        "price": 200,
+        "weblink": "https://www.adidas.com/us/adidas-4d-run-1.0-shoes/FV6956.html",
+        "productname": "running shoe",
+        "imagelink": "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy/f48c9d63b2b74eb0b96fabc000b3110e_9366/adidas_4D_Run_1.0_Shoes_Pink_FV6956_FV6956_01_standard.jpg"
+    },
+    {
+        "id": 50,
+        "productID": 50,
+        "tagID": 45,
+        "shoppingplatform": "apple",
+        "price": 159,
+        "weblink": "https://www.apple.com/us-hed/shop/product/MV7N2/airpods-with-charging-case",
+        "productname": "AirPods",
+        "imagelink": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MV7N2?wid=1000&hei=1000&fmt=jpeg&qlt=95&op_usm=0.5,0.5&.v=1551489688005"
+    },
+    {
+        "id": 51,
+        "productID": 51,
+        "tagID": 46,
+        "shoppingplatform": "macys",
+        "price": 179,
+        "weblink": "https://www.macys.com/shop/product/swarovski-enchanted-rose-figurine?ID=10566959&CategoryID=190351",
+        "productname": "Swarovski Enchanted Rose Figurine",
+        "imagelink": "https://slimages.macysassets.com/is/image/MCY/products/8/optimized/16695068_fpx.tif?op_sharpen=1&wid=1230&hei=1500&fit=fit,1&$filterxlrg$"
+    },
+    {
+        "id": 52,
+        "productID": 52,
+        "tagID": 47,
+        "shoppingplatform": "staples",
+        "price": 129.99,
+        "weblink": "https://www.staples.com/logitech-ergo-k860-wireless-keyboard-black-920-009166/product_24421967",
+        "productname": "wireless keyboard",
+        "imagelink": "https://assets.logitech.com/assets/65832/13/ergo-k860-overview-pdp.png"
+    },
+    {
+        "id": 53,
+        "productID": 53,
+        "tagID": 48,
+        "shoppingplatform": "amazon",
+        "price": 8.99,
+        "weblink": "https://www.amazon.com/Wave-Runner-Water-Bouncing-Random/dp/B00CHWJRYE/ref=sr_1_10?dchild=1&keywords=waterball&qid=1595512484&sr=8-10",
+        "productname": "water bouncing ball",
+        "imagelink": "https://images-na.ssl-images-amazon.com/images/I/81ccHFYPD5L._AC_SL1500_.jpg"
+    },
+    {
+        "id": 54,
+        "productID": 54,
+        "tagID": 49,
+        "shoppingplatform": "ebay",
+        "price": 8.88,
+        "weblink": "https://www.ebay.com/itm/Lot-of-10-Old-10-Phonograph-Records-Lot-78-rpm-EMERSON-DIVA-STARR-DECCA/203053188924?hash=item2f46e9c73c:g:~gwAAOSwuwJfFL0X",
+        "productname": "phonograph records",
+        "imagelink": "https://i.ebayimg.com/images/g/~gwAAOSwuwJfFL0X/s-l1600.jpg"
+    },
+    {
+        "id": 55,
+        "productID": 55,
+        "tagID": 49,
+        "shoppingplatform": "ebay",
+        "price": 3.99,
+        "weblink": "https://www.ebay.com/itm/You-Pick-Cassette-Tapes-Lot-80s-90s-New-Wave-Synth-Electronic-Post-Punk/333652066671?hash=item4daf36816f:g:LT0AAOSwQ3le5T2M",
+        "productname": "music tape",
+        "imagelink": "https://i.ebayimg.com/images/g/LT0AAOSwQ3le5T2M/s-l1600.jpg"
+    },
+    {
+        "id": 56,
+        "productID": 56,
+        "tagID": 50,
+        "shoppingplatform": "walmart",
+        "price": 3.97,
+        "weblink": "https://www.walmart.com/ip/Crystal-Art-Worry-Less-Smile-More-Wrapped-Canvas-Painting-Print-Wall-Art-Decor/271035953",
+        "productname": "canvas painting",
+        "imagelink": "https://i5.walmartimages.com/asr/37a5ee1a-56bf-4f61-a9bd-2057c30e397e_1.3b5a46d0f3753516367dacd9b7eafe50.jpeg?odnWidth=undefined&odnHeight=undefined&odnBg=ffffff"
+    },
+    {
+        "id": 57,
+        "productID": 57,
+        "tagID": 51,
+        "shoppingplatform": "staples",
+        "price": 9.29,
+        "weblink": "https://www.staples.com/Stalwart-75-MG7616-6-LED-4x-High-Powered-Magnifying-Glass/product_234922",
+        "productname": "magnifier",
+        "imagelink": "https://www.eschenbach.com/images/2642-120_l.jpg"
+    },
+    {
+        "id": 58,
+        "productID": 58,
+        "tagID": 52,
+        "shoppingplatform": "decathlon",
+        "price": 34.99,
+        "weblink": "https://www.decathlon.com/products/bodybuilding-hex-dumbbell?adept-product=bodybuilding-hex-dumbbell&variant=1531892531213&adept_product_id=bodybuilding-hex-dumbbell&source=search",
+        "productname": "dumbell",
+        "imagelink": "https://cdn.shopify.com/s/files/1/1330/6287/products/Hex_20Dumbbell_205_20KG_5B8353799_5DTCI_PSHOT_02_c96ca261-676b-45c9-9ed3-307431ee6497_812x.progressive.jpg?v=1595474381"
+    },
+    {
+        "id": 59,
+        "productID": 59,
+        "tagID": 53,
+        "shoppingplatform": "walmart",
+        "price": 11.94,
+        "weblink": "https://www.walmart.com/ip/Ematic-Portable-Bluetooth-Wireless-Speaker-and-Speakerphone-Black/42979197",
+        "productname": "portable speaker",
+        "imagelink": "https://i5.walmartimages.com/asr/1a083ecc-88ac-410e-8b76-694aeef3b4b6_1.edf628ecd329869a7e4bfcb653b319ba.jpeg?odnWidth=undefined&odnHeight=undefined&odnBg=ffffff"
+    },
+    {
+        "id": 60,
+        "productID": 60,
+        "tagID": 54,
+        "shoppingplatform": "macys",
+        "price": 28.12,
+        "weblink": "https://www.macys.com/shop/product/charter-club-womens-pave-bracelet-watch-28mm-created-for-macy?ID=4336893&CategoryID=28067&swatchColor=Rose%20Gold",
+        "productname": "bracelet watch",
+        "imagelink": "https://slimages.macysassets.com/is/image/MCY/products/4/optimized/8136834_fpx.tif?op_sharpen=1&wid=1230&hei=1500&fit=fit,1&$filterxlrg$"
+    },
+    {
+        "id": 61,
+        "productID": 61,
+        "tagID": 54,
+        "shoppingplatform": "ebay",
+        "price": 12.5,
+        "weblink": "https://www.ebay.com/itm/Mug-11-oz-Art-Nouveau-Alphonse-Mucha-Illustration-Designs-1/283771887582?hash=item42121f5fde:g:-9MAAOSw-vlVkNel",
+        "productname": "mug",
+        "imagelink": "https://i.ebayimg.com/images/g/-9MAAOSw-vlVkNel/s-l1600.jpg"
+    },
+    {
+        "id": 62,
+        "productID": 62,
+        "tagID": 55,
+        "shoppingplatform": "staples",
+        "price": 44.59,
+        "weblink": "https://www.staples.com/V-Light-Full-Spectrum-Desk-Lamp-Black/product_850796",
+        "productname": "desk lamp",
+        "imagelink": "https://images-na.ssl-images-amazon.com/images/I/61m3Bmm7ptL._AC_SL1000_.jpg"
+    },
+    {
+        "id": 63,
+        "productID": 63,
+        "tagID": 56,
+        "shoppingplatform": "addidas",
+        "price": 180,
+        "weblink": "https://www.adidas.com/us/ultraboost-20-shoes/EE4393.html",
+        "productname": "running shoes",
+        "imagelink": "https://assets.adidas.com/images/h_2000,f_auto,q_auto:sensitive,fl_lossy/1786207682d24dc0a414aaf701641825_9366/Ultraboost_20_Shoes_Black_EE4393_01_standard.jpg"
+    },
+    {
+        "id": 64,
+        "productID": 64,
+        "tagID": 57,
+        "shoppingplatform": "ebay",
+        "price": 146.95,
+        "weblink": "https://www.ebay.com/itm/Victrola-Nostalgic-6-in-1-Bluetooth-Record-Player-Multimedia-Center-with-Bu/143663455128?_trkparms=aid%3D1110006%26algo%3DHOMESPLICE.SIM%26ao%3D1%26asc%3D225074%26meid%3Db9ae236b83aa47ccb9f51597ff4cc088%26pid%3D100005%26rk%3D4%26rkt%3D12%26mehot%3Dpf%26sd%3D264804961039%26itm%3D143663455128%26pmt%3D1%26noa%3D0%26pg%3D2047675%26algv%3DSimplAMLv5PairwiseWebWithBBEV2bDemotion%26brand%3DVictrola&_trksid=p2047675.c100005.m1851",
+        "productname": "record player",
+        "imagelink": "https://i.ebayimg.com/images/g/b24AAOSwqEVfGJ-h/s-l1600.jpg"
+    },
+    {
+        "id": 65,
+        "productID": 65,
+        "tagID": 58,
+        "shoppingplatform": "macys",
+        "price": 149.7,
+        "weblink": "https://www.macys.com/shop/product/oval-cultured-freshwater-pearl-7-1-2mm-100-endless-strand-necklace?ID=10525684&CategoryID=22000",
+        "productname": "pearl necklace",
+        "imagelink": "https://slimages.macysassets.com/is/image/MCY/products/9/optimized/16553999_fpx.tif?op_sharpen=1&wid=1230&hei=1500&fit=fit,1&$filterxlrg$"
+    },
+    {
+        "id": 66,
+        "productID": 66,
+        "tagID": 59,
+        "shoppingplatform": "walmart",
+        "price": 81.99,
+        "weblink": "https://www.walmart.com/ip/Flash-Furniture-Mesh-Back-Computer-Chair-Black/13006096",
+        "productname": "study chair",
+        "imagelink": "https://i5.walmartimages.com/asr/bbb4defe-fd5d-4381-a2c9-a0e1b47ee719_1.147d1e6f6ba6415083ad29e529f0106a.jpeg?odnWidth=undefined&odnHeight=undefined&odnBg=ffffff"
+    },
+    {
+        "id": 67,
+        "productID": 67,
+        "tagID": 60,
+        "shoppingplatform": "decathlon",
+        "price": 9.99,
+        "weblink": "https://www.decathlon.com/collections/hiking-sweatshirts/products/mens-nature-hiking-pullover-arpenaz-50?",
+        "productname": "hiking shirt",
+        "imagelink": "https://cdn.shopify.com/s/files/1/1330/6287/products/02457e69e1ae48b2a04ea3cb403c1e99_812x.progressive.jpg?v=1561672910"
+    },
+    {
+        "id": 68,
+        "productID": 68,
+        "tagID": 61,
+        "shoppingplatform": "ebay",
+        "price": 4.89,
+        "weblink": "https://www.ebay.com/itm/1-Metal-Whistle-Lanyard-Emergency-Survival-Partys-Black-Lanyard/131788534038?hash=item1eaf357116:g:od4AAOSwXj5XGP4q",
+        "productname": "whistle",
+        "imagelink": "https://i.ebayimg.com/images/g/od4AAOSwXj5XGP4q/s-l1600.jpg"
+    },
+    {
+        "id": 69,
+        "productID": 69,
+        "tagID": 62,
+        "shoppingplatform": "walmart",
+        "price": 7.97,
+        "weblink": "https://www.walmart.com/ip/Paintbrush-Set-12-Pieces-Round-Pointed-Tip-Nylon-Hair-Artist-Detail-Paint-Brushes-Professional-Fine-Acrylic-Oil-Watercolor-Art-Craft-Miniature-Painti/912786462",
+        "productname": "paint brush",
+        "imagelink": "https://i5.walmartimages.com/asr/9a487f0f-9664-4dce-a54a-bb9c83f3a533.e6bae35aa49f18b3dd29535c5cc8010b.jpeg?odnWidth=undefined&odnHeight=undefined&odnBg=ffffff"
+    },
+    {
+        "id": 70,
+        "productID": 70,
+        "tagID": 63,
+        "shoppingplatform": "walmart",
+        "price": 5.28,
+        "weblink": "https://www.walmart.com/ip/Westcott-8-All-Purpose-Bent-Scissors-Black-Pack-of-3/14882015",
+        "productname": "scissors",
+        "imagelink": "https://i5.walmartimages.com/asr/fc0c7fc4-31f9-49b7-9c11-fe32b3e37a97_1.68e7729346e55d8fc9463f16f919ab1d.jpeg?odnWidth=612&odnHeight=612&odnBg=ffffff"
+    },
+    {
+        "id": 71,
+        "productID": 71,
+        "tagID": 63,
+        "shoppingplatform": "amazon",
+        "price": 3.92,
+        "weblink": "https://www.amazon.com/Elmers-Disappearing-Purple-School-Washable/dp/B001D6YFTW/ref=sr_1_7?dchild=1&keywords=glue&qid=1595520251&sr=8-7&th=1",
+        "productname": "glue sticks",
+        "imagelink": "https://images-na.ssl-images-amazon.com/images/I/81r-iUfoeLL._AC_SL1500_.jpg"
+    },
+    {
+        "id": 72,
+        "productID": 72,
+        "tagID": 64,
+        "shoppingplatform": "decathlon",
+        "price": 39.99,
+        "weblink": "https://www.decathlon.com/collections/hiking-waterproof-jackets/products/mens-mountain-hiking-waterproof-rain-jacket-mh100?",
+        "productname": "hiking waterproof jacket",
+        "imagelink": "https://cdn.shopify.com/s/files/1/1330/6287/products/Veste_20MH100_20Black_202019_20_7C_20001_20_7C_20PSHOT_20_812x.progressive.jpg?v=1594529964"
+    },
+    {
+        "id": 73,
+        "productID": 73,
+        "tagID": 65,
+        "shoppingplatform": "kohls",
+        "price": 29.99,
+        "weblink": "https://www.kohls.com/product/prd-2515424/jensen-portable-am-fm-radio.jsp?prdPV=1",
+        "productname": "portable radio",
+        "imagelink": "https://media.kohlsimg.com/is/image/kohls/2515424?wid=2048&hei=2048&op_sharpen=1"
+    },
+    {
+        "id": 74,
+        "productID": 74,
+        "tagID": 66,
+        "shoppingplatform": "macys",
+        "price": 14.95,
+        "weblink": "https://www.macys.com/shop/product/kenya-water-bottle?ID=8307088&CategoryID=63009&swatchColor=Camel",
+        "productname": "kenya water bottle",
+        "imagelink": "https://slimages.macysassets.com/is/image/MCY/products/5/optimized/11697645_fpx.tif?op_sharpen=1&wid=1230&hei=1500&fit=fit,1&$filterxlrg$"
+    },
+    {
+        "id": 75,
+        "productID": 75,
+        "tagID": 67,
+        "shoppingplatform": "amazon",
+        "price": 28.99,
+        "weblink": "https://www.amazon.com/Flash-Furniture-Black-Folding-Table/dp/B00E8SZ4MY/ref=sr_1_14?dchild=1&keywords=table&qid=1595520631&sr=8-14",
+        "productname": "folding table",
+        "imagelink": "https://images-na.ssl-images-amazon.com/images/I/71YyXQ%2BMIsL._AC_SL1500_.jpg"
+    },
+    {
+        "id": 76,
+        "productID": 76,
+        "tagID": 68,
+        "shoppingplatform": "decathlon",
+        "price": 149.99,
+        "weblink": "https://www.decathlon.com/collections/backpacking-packs/products/mens-mountain-backpacking-backpack-50-l-plus-10-l-trek-900?variant=19062145220670",
+        "productname": "hiking backpack",
+        "imagelink": "https://cdn.shopify.com/s/files/1/1330/6287/products/FORCLAZ_20SAD_20H_20TREK_20900_2050_2010L_20GRIS_20PE20_20AH20_20_7C_20PSHOT_f9d5bde4-583e-4589-98cc-527886357c68_812x.progressive.jpg?v=1594453745"
+    },
+    {
+        "id": 77,
+        "productID": 77,
+        "tagID": 69,
+        "shoppingplatform": "ebay",
+        "price": 149.95,
+        "weblink": "https://www.ebay.com/itm/Bose-Solo-5-TV-Sound-System-Factory-Renewed/164023519308?epid=150325896&hash=item263090484c:g:WlEAAOSwx85cyYy7",
+        "productname": "sound system",
+        "imagelink": "https://i.ebayimg.com/images/g/WlEAAOSwx85cyYy7/s-l1600.jpg"
+    },
+    {
+        "id": 78,
+        "productID": 78,
+        "tagID": 70,
+        "shoppingplatform": "amazon",
+        "price": 149.99,
+        "weblink": "https://www.amazon.com/QKK-Projector-Brightness-Compatible-Smartphone/dp/B07MWSKNKZ/ref=sr_1_3?dchild=1&keywords=movie+projector&qid=1595521716&sr=8-3",
+        "productname": "moive projector",
+        "imagelink": "https://images-na.ssl-images-amazon.com/images/I/61MOii-Eu8L._AC_SL1000_.jpg"
+    },
+    {
+        "id": 79,
+        "productID": 79,
+        "tagID": 71,
+        "shoppingplatform": "walmart",
+        "price": 179,
+        "weblink": "https://www.walmart.com/ip/Better-Homes-Gardens-Blake-Lounge-Chair-Multiple-Colors/666277193",
+        "productname": "arm chair",
+        "imagelink": "https://i5.walmartimages.com/asr/273ab5a3-a458-4ade-96bc-cac869a498f0_2.e2d19bdc0875267accefb9697c4d8e95.jpeg?odnWidth=undefined&odnHeight=undefined&odnBg=ffffff"
+    },
+    {
+        "id": 80,
+        "productID": 80,
+        "tagID": 71,
+        "shoppingplatform": "staples",
+        "price": 96.16,
+        "weblink": "https://www.staples.com/Kenroy-Home-Bently-LED-Desk-Lamp-Chrome-Finish/product_149325",
+        "productname": "desk lamp",
+        "imagelink": "https://www.fully.com/media/catalog/product/cache/f1db925781c6e8120d92125aca150e85/f/u/fully-beam-led-desk-lamp-on-jarvis-desk-white-clamp_c_v1_1.jpg"
+    },
+    {
+        "id": 81,
+        "productID": 81,
+        "tagID": 72,
+        "shoppingplatform": "decathlon",
+        "price": 10,
+        "weblink": "https://www.decathlon.com/collections/womens-sweatshirts-hoodies/products/womens-pilates-and-gentle-gym-hooded-jacket-520?variant=30903918297150",
+        "productname": "jacket",
+        "imagelink": "https://cdn.shopify.com/s/files/1/1330/6287/products/DOMYOS_20Veste_20520_20capuche_20Gym_20rose_20_7C_20PSHOT_812x.progressive.jpg?v=1595481519"
+    },
+    {
+        "id": 82,
+        "productID": 82,
+        "tagID": 73,
+        "shoppingplatform": "ebay",
+        "price": 6.99,
+        "weblink": "https://www.ebay.com/itm/The-Charlie-Daniels-Band-16-Biggest-Hits-BRAND-NEW-CD-BEST-OF-GREATEST-HITS/164287621042?epid=223272905&hash=item26404e27b2:g:MhEAAOSwSnZfA8WN",
+        "productname": "CD",
+        "imagelink": "https://i.ebayimg.com/images/g/MhEAAOSwSnZfA8WN/s-l500.jpg"
+    },
+    {
+        "id": 83,
+        "productID": 83,
+        "tagID": 74,
+        "shoppingplatform": "walmart",
+        "price": 3.97,
+        "weblink": "https://www.walmart.com/ip/Libbey-Glasswares-Glass-9-5-Cylinder-Live-Laugh-Love-Vase-1-Each/662702061",
+        "productname": "vase",
+        "imagelink": "https://i5.walmartimages.com/asr/54f6a0ec-de16-4b3f-9617-91dd0ad124f9_5.eb3193ab97f8188803e911ba334a961e.jpeg?odnWidth=undefined&odnHeight=undefined&odnBg=ffffff"
+    },
+    {
+        "id": 84,
+        "productID": 84,
+        "tagID": 75,
+        "shoppingplatform": "staples",
+        "price": 9.85,
+        "weblink": "https://www.staples.com/Staples-BookLift-Copyholder-88980/product_515621",
+        "productname": "book holder",
+        "imagelink": "https://i.ebayimg.com/images/g/j3sAAOSwN2VZU1S2/s-l300.jpg"
+    },
+    {
+        "id": 85,
+        "productID": 85,
+        "tagID": 76,
+        "shoppingplatform": "decathlon",
+        "price": 49.99,
+        "weblink": "https://www.decathlon.com/products/sea-fishing-combo-senseatip-5-telescopic-270?adept-product=sea-fishing-combo-senseatip-5-telescopic-270&variant=1520471343117&adept_product_id=sea-fishing-combo-senseatip-5-telescopic-270&source=search",
+        "productname": "fishing rod",
+        "imagelink": "https://cdn.shopify.com/s/files/1/1330/6287/products/a76feb8eb9e3415a8878b148329f96f5_812x.progressive.jpg?v=1561674342"
+    },
+    {
+        "id": 86,
+        "productID": 86,
+        "tagID": 77,
+        "shoppingplatform": "amazon",
+        "price": 29.99,
+        "weblink": "https://www.amazon.com/OneOdio-Auriculares-telesc%C3%B3picos-controladores-1-969/dp/B01N6ZJH96/ref=sr_1_23?crid=39RDB38466F14&dchild=1&keywords=music+instruments+for+adults&qid=1595528228&sprefix=music+instrument%2Caps%2C355&sr=8-23",
+        "productname": "headphone",
+        "imagelink": "https://images-na.ssl-images-amazon.com/images/I/61RWUr-10QL._AC_SL1200_.jpg"
+    },
+    {
+        "id": 87,
+        "productID": 87,
+        "tagID": 78,
+        "shoppingplatform": "walmart",
+        "price": 31.98,
+        "weblink": "https://www.walmart.com/ip/Red-Roses-One-Dozen-Vase-Included/712412966",
+        "productname": "red rose",
+        "imagelink": "https://i5.walmartimages.com/asr/d116d0ad-34dd-4d9b-9fdb-5732b8264320_1.72b794356390f4c83afbf54ccd4d1821.jpeg?odnWidth=undefined&odnHeight=undefined&odnBg=ffffff"
+    },
+    {
+        "id": 88,
+        "productID": 88,
+        "tagID": 79,
+        "shoppingplatform": "staples",
+        "price": 18.39,
+        "weblink": "https://www.staples.com/Staples-3-Tab-Heavyweight-Manila-File-Folders-Letter-50-Box/product_744100?akamai-feo=off",
+        "productname": "file folders",
+        "imagelink": "https://media.officedepot.com/image/upload/b_rgb:FFFFFF,c_pad,dpr_1.0,f_auto,h_1665,q_auto,w_1250/c_pad,h_1665,w_1250/v1/products/543280/543280_p_office_depot_brand_file_folders?pgw=1&pgwact=1"
+    },
+    {
+        "id": 89,
+        "productID": 89,
+        "tagID": 80,
+        "shoppingplatform": "macys",
+        "price": 58.8,
+        "weblink": "https://www.macys.com/shop/product/michael-kors-mens-logo-sport-shorts?ID=10527380&CategoryID=3310",
+        "productname": "sport shorts",
+        "imagelink": "https://slimages.macysassets.com/is/image/MCY/products/0/optimized/16561420_fpx.tif?op_sharpen=1&wid=1230&hei=1500&fit=fit,1&$filterxlrg$"
+    },
+    {
+        "id": 90,
+        "productID": 90,
+        "tagID": 80,
+        "shoppingplatform": "kohls",
+        "price": 179,
+        "weblink": "https://www.kohls.com/product/prd-2856769/ray-ban-rb3449-59mm-highstreet-aviator-mirror-sunglasses.jsp?color=Pink%20Mirror&prdPV=1",
+        "productname": "sunglasses",
+        "imagelink": "https://media.kohlsimg.com/is/image/kohls/2856769_Pink_Mirror?wid=2048&hei=2048&op_sharpen=1"
+    },
+    {
+        "id": 91,
+        "productID": 91,
+        "tagID": 81,
+        "shoppingplatform": "walmart",
+        "price": 54.88,
+        "weblink": "https://www.walmart.com/ip/Jensen-Bluetooth-CD-Music-System-with-Digital-AM-FM-Stereo-Receiver-JBS-200/55731101",
+        "productname": "CD music system",
+        "imagelink": "https://i5.walmartimages.com/asr/d6396e1d-861c-40c5-bad6-40e498df0ae3_1.5b29527a611690bc25ffacf54598f054.jpeg?odnWidth=undefined&odnHeight=undefined&odnBg=ffffff"
+    },
+    {
+        "id": 92,
+        "productID": 92,
+        "tagID": 82,
+        "shoppingplatform": "macys",
+        "price": 80,
+        "weblink": "https://www.macys.com/shop/product/diamond-cluster-stud-earrings-1-10-ct.-t.w.-in-sterling-silver?ID=9386971&CategoryID=10835",
+        "productname": "earrings",
+        "imagelink": "https://slimages.macysassets.com/is/image/MCY/products/1/optimized/13344721_fpx.tif?op_sharpen=1&wid=1230&hei=1500&fit=fit,1&$filterxlrg$"
+    },
+    {
+        "id": 93,
+        "productID": 93,
+        "tagID": 83,
+        "shoppingplatform": "ebay",
+        "price": 137.99,
+        "weblink": "https://www.ebay.com/itm/Writing-Table-Computer-Desk-Laptop-Pc-Furniture-Wood-Workstation-Study-Office/312713147431?hash=item48cf27f427:g:M5sAAOSw9s5egYhH",
+        "productname": "writing desk",
+        "imagelink": "https://i.ebayimg.com/images/g/M5sAAOSw9s5egYhH/s-l1600.jpg"
+    },
+    {
+        "id": 94,
+        "productID": 94,
+        "tagID": 84,
+        "shoppingplatform": "decathlon",
+        "price": 9.99,
+        "weblink": "https://www.decathlon.com/collections/bike-jerseys/products/mens-road-cycling-short-sleeved-jersey-essential-312058?",
+        "productname": "cycling jersey",
+        "imagelink": "https://cdn.shopify.com/s/files/1/1330/6287/products/TRIBAN_20MAILLOT_20MC_20H_20ESSENTIEL_20NOIR_20_7C_20PSHOT_812x.progressive.jpg?v=1595481820"
+    },
+    {
+        "id": 95,
+        "productID": 95,
+        "tagID": 85,
+        "shoppingplatform": "ebay",
+        "price": 9.58,
+        "weblink": "https://www.ebay.com/itm/The-Band-Music-from-the-Big-Pink-The-Band-New-CD/143453970895?epid=101765651&hash=item216685e1cf:g:1sUAAOSwOapexYIA",
+        "productname": "music album",
+        "imagelink": "https://i.ebayimg.com/images/g/1sUAAOSwOapexYIA/s-l500.jpg"
+    },
+    {
+        "id": 96,
+        "productID": 96,
+        "tagID": 86,
+        "shoppingplatform": "walmart",
+        "price": 5.89,
+        "weblink": "https://www.walmart.com/ip/Oil-Paint-Set-12-Pkg/425657410",
+        "productname": "oil paint",
+        "imagelink": "https://i5.walmartimages.com/asr/e3ca974f-1d77-47ba-93f9-e2be263b1a6a_1.ae96caacbf7b1365fd3391130a083280.jpeg?odnWidth=undefined&odnHeight=undefined&odnBg=ffffff"
+    },
+    {
+        "id": 97,
+        "productID": 97,
+        "tagID": 87,
+        "shoppingplatform": "walmart",
+        "price": 4.99,
+        "weblink": "https://www.walmart.com/ip/Sunglasses-Case-Carry-Box-Hard-Zipper-Eye-Glasses-Portable-Shell-Protector-Soft/460909543",
+        "productname": "glasses case",
+        "imagelink": "https://i5.walmartimages.com/asr/70bbf3ef-5188-4df3-b0a3-435ad74bbebb_1.9d0fc7367458401ead8b6ee00e3ae243.jpeg?odnWidth=undefined&odnHeight=undefined&odnBg=ffffff"
+    },
+    {
+        "id": 98,
+        "productID": 98,
+        "tagID": 88,
+        "shoppingplatform": "macys",
+        "price": 44,
+        "weblink": "https://www.macys.com/shop/product/isotoner-signature-womens-smartdri-stretch-fleece-touchscreen-gloves?ID=9997401&CategoryID=26846&isDlp=true&swatchColor=Houndstooth",
+        "productname": "gloves",
+        "imagelink": "https://slimages.macysassets.com/is/image/MCY/products/8/optimized/14719458_fpx.tif?op_sharpen=1&wid=1230&hei=1500&fit=fit,1&$filterxlrg$"
+    },
+    {
+        "id": 99,
+        "productID": 99,
+        "tagID": 88,
+        "shoppingplatform": "decathlon",
+        "price": 39.99,
+        "weblink": "https://www.decathlon.com/products/mens-first-heat-ski-jacket?adept-product=mens-first-heat-ski-jacket",
+        "productname": "ski jacket",
+        "imagelink": "https://cdn.shopify.com/s/files/1/1330/6287/products/326092aaed9d44c5905e551353e457b5_812x.progressive.jpg?v=1561673154"
+    },
+    {
+        "id": 100,
+        "productID": 100,
+        "tagID": 89,
+        "shoppingplatform": "target",
+        "price": 25.99,
+        "weblink": "https://www.target.com/p/hamilton-original-broadway-cast-recording-cd/-/A-51181480",
+        "productname": "Hamilton's CDs",
+        "imagelink": "https://images-na.ssl-images-amazon.com/images/I/81n9mbvLheL._SL1425_.jpg"
+    },
+    {
+        "id": 101,
+        "productID": 101,
+        "tagID": 90,
+        "shoppingplatform": "kohls",
+        "price": 15.29,
+        "weblink": "https://www.kohls.com/product/prd-3949971/sun-zero-allegory-abstract-painting-blackout-grommet-window-curtain.jsp?prdPV=1",
+        "productname": "window curtain",
+        "imagelink": "https://media.kohlsimg.com/is/image/kohls/3949971_Cedar?wid=2048&hei=2048&op_sharpen=1"
+    },
+    {
+        "id": 102,
+        "productID": 102,
+        "tagID": 91,
+        "shoppingplatform": "staples",
+        "price": 24.99,
+        "weblink": "https://www.staples.com/Select-A-Vision-Sportex-High-Performance-2-50-Reading-Glasses-Grey-EAR4150GY-250/product_2230131",
+        "productname": "reading glasses",
+        "imagelink": "https://www.readers.com/tn_images--D--Lynwood-Angle-Grey---jpg_w920.jpg"
+    },
+    {
+        "id": 103,
+        "productID": 103,
+        "tagID": 92,
+        "shoppingplatform": "decathlon",
+        "price": 39.99,
+        "weblink": "https://www.decathlon.com/products/quick-hiking-pole-x1-helium?adept-product=quick-hiking-pole-x1-helium&variant=1447212515341&adept_product_id=quick-hiking-pole-x1-helium&source=search",
+        "productname": "hiking pole",
+        "imagelink": "https://cdn.shopify.com/s/files/1/1330/6287/products/QUECHUA_20BATON_20FH500_20HELIUM_20PE20_20_7C_20PSHOT_812x.progressive.jpg?v=1595474738"
+    },
+    {
+        "id": 104,
+        "productID": 104,
+        "tagID": 93,
+        "shoppingplatform": "amazon",
+        "price": 159,
+        "weblink": "https://www.amazon.com/Auriculares-inal%C3%A1mbricos-externos-SoundLink-negro/dp/B0117RGG8E/ref=sr_1_5?dchild=1&keywords=bose+headphones&qid=1595533972&sr=8-5",
+        "productname": "bose headphone",
+        "imagelink": "https://images-na.ssl-images-amazon.com/images/I/71jDdUuRi8L._AC_SL1500_.jpg"
+    },
+    {
+        "id": 105,
+        "productID": 105,
+        "tagID": 94,
+        "shoppingplatform": "macys",
+        "price": 149,
+        "weblink": "https://www.macys.com/shop/product/diamond-heart-pendant-necklace-1-2-ct.-t.w.-in-sterling-silver-16-inches-2-inch-extender?ID=6188137&CategoryID=9569&swatchColor=Silver",
+        "productname": "necklace",
+        "imagelink": "https://slimages.macysassets.com/is/image/MCY/products/2/optimized/9539552_fpx.tif?op_sharpen=1&wid=1230&hei=1500&fit=fit,1&$filterxlrg$"
+    },
+    {
+        "id": 106,
+        "productID": 106,
+        "tagID": 95,
+        "shoppingplatform": "walmart",
+        "price": 60.48,
+        "weblink": "https://www.walmart.com/ip/Winsome-Alden-Lap-Desk-Bed-Tray-with-Drawer-Walnut/16503525",
+        "productname": "lap desk",
+        "imagelink": "https://i5.walmartimages.com/asr/c8d3bfec-4785-4d1b-a1b1-4a17255f3548_1.7734d91a025deef0f58324e942da159a.jpeg?odnWidth=612&odnHeight=612&odnBg=ffffff"
+    },
+    {
+        "id": 107,
+        "productID": 107,
+        "tagID": 96,
+        "shoppingplatform": "walmart",
+        "price": 4.88,
+        "weblink": "https://www.walmart.com/ip/Franklin-Sports-8-5-Inflated-Playground-Ball-Assorted-Colors/345877757",
+        "productname": "playground ball",
+        "imagelink": "https://i5.walmartimages.com/asr/dbf647ba-5782-445a-aa9f-07e5ddfdbbbd_2.afd4166fba4584e916c4e550a24676d6.jpeg?odnWidth=undefined&odnHeight=undefined&odnBg=ffffff"
+    },
+    {
+        "id": 108,
+        "productID": 108,
+        "tagID": 96,
+        "shoppingplatform": "decathlon",
+        "price": 10,
+        "weblink": "https://www.decathlon.com/collections/yoga-shirts/products/womens-gentle-yoga-organic-cotton-t-shirt-ss19?",
+        "productname": "yoga shirt",
+        "imagelink": "https://cdn.shopify.com/s/files/1/1330/6287/products/SOFT_20YOGA_20W_20SS_20TS_20Black_20_7C_20001_20_7C_20PSHOT_20_3c6a4fe6-2970-4e61-b842-5dc9419c45e6_812x.progressive.jpg?v=1575788696"
+    },
+    {
+        "id": 109,
+        "productID": 109,
+        "tagID": 97,
+        "shoppingplatform": "target",
+        "price": 4.89,
+        "weblink": "https://www.target.com/p/spalding-basketball-metal-whistle-with-lanyard/-/A-12737080",
+        "productname": "whistle",
+        "imagelink": "https://target.scene7.com/is/image/Target/GUEST_abe04f9a-4ae1-4eb3-847e-b5bb83ad06d1?fmt=webp&wid=1400&qlt=80"
+    },
+    {
+        "id": 110,
+        "productID": 110,
+        "tagID": 98,
+        "shoppingplatform": "ebay",
+        "price": 5.95,
+        "weblink": "https://www.ebay.com/itm/NEW-Small-Crocus-Flower-Bulb-Starter-Blue-Green-Purple-EEC-Glass-Vase/254563972265?hash=item3b4531f4a9:g:ZAcAAOSwLaVejf6I",
+        "productname": "vase",
+        "imagelink": "https://i.ebayimg.com/images/g/ZAcAAOSwLaVejf6I/s-l1600.jpg"
+    },
+    {
+        "id": 111,
+        "productID": 111,
+        "tagID": 99,
+        "shoppingplatform": "staples",
+        "price": 6.58,
+        "weblink": "https://www.staples.com/Swingline-Commercial-Desktop-Full-Strip-Stapler-20-Sheet-Capacity-Black/product_504308",
+        "productname": "stapler",
+        "imagelink": "https://media.accobrandspartner.com/sections/leadimage.aspx?sku=s7044401a-us&height=1400&width=1400&publicSite=1&language=us&country=us&brandID=9"
+    },
+    {
+        "id": 112,
+        "productID": 112,
+        "tagID": 100,
+        "shoppingplatform": "decathlon",
+        "price": 30,
+        "weblink": "https://www.decathlon.com/collections/hiking-waterproof-jackets/products/womens-hiking-snow-jacket-sh600?",
+        "productname": "hiking jacket",
+        "imagelink": "https://cdn.shopify.com/s/files/1/1330/6287/products/80b7c602db3444529f86fa2bfc87eab8_812x.progressive.jpg?v=1561676685"
+    },
+    {
+        "id": 113,
+        "productID": 113,
+        "tagID": 101,
+        "shoppingplatform": "target",
+        "price": 21.99,
+        "weblink": "https://www.target.com/p/various-artists-gennett-old-time-music-classic-country-recordings-1927-1934-cd/-/A-79644622",
+        "productname": "music recordings",
+        "imagelink": "https://img.discogs.com/nMkKBZlhKXBOqzj26LQMsUD8XDE=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-12046413-1528661014-3015.jpeg.jpg"
+    },
+    {
+        "id": 114,
+        "productID": 114,
+        "tagID": 102,
+        "shoppingplatform": "walmart",
+        "price": 21.99,
+        "weblink": "https://www.walmart.com/ip/Efavormart-5-Pack-25-Heads-Silk-Hydrangea-Artificial-Flower-Bushes-Wedding-Arrangements/490106126",
+        "productname": "flowers",
+        "imagelink": "https://i5.walmartimages.com/asr/018c23f9-0f66-411f-a82e-aa2c196bd762_1.360fbd3ce4fcad6065167ee6251e31cb.jpeg?odnWidth=undefined&odnHeight=undefined&odnBg=ffffff"
+    },
+    {
+        "id": 115,
+        "productID": 115,
+        "tagID": 103,
+        "shoppingplatform": "amazon",
+        "price": 29.99,
+        "weblink": "https://www.amazon.com/AUKEY-Bedside-Dimmable-Changing-Bedrooms/dp/B01AJ7F14I/ref=sr_1_5?dchild=1&keywords=lamp&qid=1595581317&sr=8-5",
+        "productname": "lamp",
+        "imagelink": "https://images-na.ssl-images-amazon.com/images/I/51taqUuIUJL._AC_SL1500_.jpg"
+    },
+    {
+        "id": 116,
+        "productID": 116,
+        "tagID": 104,
+        "shoppingplatform": "nike",
+        "price": 130,
+        "weblink": "https://www.nike.com/t/sportswear-tech-fleece-mens-full-zip-hoodie-5ZtTtk/CU4489-063",
+        "productname": "jacket",
+        "imagelink": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,b_rgb:f5f5f5/463c4fbf-d4a7-420b-af4b-3d563ae3ed7b/sportswear-tech-fleece-mens-full-zip-hoodie-5ZtTtk.jpg"
+    },
+    {
+        "id": 117,
+        "productID": 117,
+        "tagID": 105,
+        "shoppingplatform": "walmart",
+        "price": 106.99,
+        "weblink": "https://www.walmart.com/ip/AGPTEK-WiFi-MP4-Player-Bluetooth-4-2-6-Inch-Full-Touch-Screen-16GB-Lossless-MP3-Music-Speaker-Support-Video-Games-FM-Radio-Expandable-Up-128GB/569590705",
+        "productname": "MP4 player",
+        "imagelink": "https://i5.walmartimages.com/asr/7bd5b13f-62f2-45f7-9b0a-d9d1aa24a6d0.e97eeb988cb6961274879f4a1bff3e8f.png?odnWidth=undefined&odnHeight=undefined&odnBg=ffffff"
+    },
+    {
+        "id": 118,
+        "productID": 118,
+        "tagID": 106,
+        "shoppingplatform": "macys",
+        "price": 50,
+        "weblink": "https://www.macys.com/shop/product/diamond-accent-heart-tag-chain-bracelet-in-18k-yellow-rose-gold-over-sterling-silver-plated-brass?ID=1819030&CategoryID=78232&swatchColor=Yellow%20Gold",
+        "productname": "bracelet",
+        "imagelink": "https://slimages.macysassets.com/is/image/MCY/products/9/optimized/2530859_fpx.tif?op_sharpen=1&wid=1230&hei=1500&fit=fit,1&$filterxlrg$"
+    },
+    {
+        "id": 119,
+        "productID": 119,
+        "tagID": 107,
+        "shoppingplatform": "amazon",
+        "price": 93.99,
+        "weblink": "https://www.amazon.com/Computer-Modern-Simple-Writing-Coleshome/dp/B07MH7LXM8/ref=sr_1_5?dchild=1&keywords=desk&qid=1595582494&sr=8-5",
+        "productname": "computer desk",
+        "imagelink": "https://images-na.ssl-images-amazon.com/images/I/61tqmI%2B0x3L._AC_SL1500_.jpg"
+    },
+    {
+        "id": 120,
+        "productID": 120,
+        "tagID": 108,
+        "shoppingplatform": "decathlon",
+        "price": 9.99,
+        "weblink": "https://www.decathlon.com/products/gym-and-pilates-slim-fit-t-shirt-500?adept-product=gym-and-pilates-slim-fit-t-shirt-500",
+        "productname": "t-shirt",
+        "imagelink": "https://cdn.shopify.com/s/files/1/1330/6287/products/DOMYOS_20TS_20500_20slim_20Gym_20gris_20chine_20_7C_20PSHOT_28c0cf5d-8bae-4c23-9fca-9e5ea4766e43_812x.progressive.jpg?v=1595556719"
+    },
+    {
+        "id": 121,
+        "productID": 121,
+        "tagID": 109,
+        "shoppingplatform": "target",
+        "price": 9.95,
+        "weblink": "https://www.target.com/p/waltons-irish-tin-whistle/-/A-76077765",
+        "productname": "irish whistle",
+        "imagelink": "https://target.scene7.com/is/image/Target/GUEST_e89b6524-cd23-492d-930e-cdc388f3a51e?fmt=webp&wid=1400&qlt=80"
+    },
+    {
+        "id": 122,
+        "productID": 122,
+        "tagID": 110,
+        "shoppingplatform": "walmart",
+        "price": 7.97,
+        "weblink": "https://www.walmart.com/ip/Better-Homes-Gardens-Distressed-Matted-Picture-Frame-White/167583450",
+        "productname": "picture frame",
+        "imagelink": "https://i5.walmartimages.com/asr/30621bba-e216-4465-993b-41c8fdf9b031_2.862de699fef0f1111f73b45030a7a834.jpeg?odnWidth=undefined&odnHeight=undefined&odnBg=ffffff"
+    },
+    {
+        "id": 123,
+        "productID": 123,
+        "tagID": 111,
+        "shoppingplatform": "walmart",
+        "price": 7.48,
+        "weblink": "https://www.staples.com/Staples-Jumbo-Paper-Clips-Smooth-1-000-Pack/product_472506",
+        "productname": "paper clips",
+        "imagelink": "https://images-na.ssl-images-amazon.com/images/I/81fRL71yRYL._AC_SL1500_.jpg"
+    },
+    {
+        "id": 124,
+        "productID": 124,
+        "tagID": 112,
+        "shoppingplatform": "nike",
+        "price": 20,
+        "weblink": "https://www.nike.com/t/fc-soccer-utility-bag-z1pHzX/CV6354-381",
+        "productname": "sport bag",
+        "imagelink": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,b_rgb:f5f5f5/180eafba-b72d-40c2-8134-20c10423bf45/fc-soccer-utility-bag-z1pHzX.jpg"
+    },
+    {
+        "id": 125,
+        "productID": 125,
+        "tagID": 113,
+        "shoppingplatform": "ebay",
+        "price": 24.99,
+        "weblink": "https://www.ebay.com/itm/Sandisk-Clip-Sport-MP3-Player-Red-4GB-w-microsd-slot-expandable/193549100982?epid=188562379&hash=item2d106ce7b6:g:mgwAAOSwE~Fe~j4F",
+        "productname": "MP3 player",
+        "imagelink": "https://i.ebayimg.com/images/g/mgwAAOSwE~Fe~j4F/s-l1600.jpg"
+    },
+    {
+        "id": 126,
+        "productID": 126,
+        "tagID": 114,
+        "shoppingplatform": "amazon",
+        "price": 24.99,
+        "weblink": "https://www.amazon.com/MoonLa-Ceramic-Flower-differing-Unique/dp/B07TKBHD7B/ref=sr_1_3?dchild=1&keywords=flower+vase&qid=1595583619&sr=8-3",
+        "productname": "flower vase",
+        "imagelink": "https://images-na.ssl-images-amazon.com/images/I/51kAO56LunL._AC_SL1500_.jpg"
+    },
+    {
+        "id": 127,
+        "productID": 127,
+        "tagID": 115,
+        "shoppingplatform": "staples",
+        "price": 17.99,
+        "weblink": "https://www.staples.com/Logitech-M325-Wireless-Optical-Mouse-Ambidextrous-Black-910-002974/product_784551",
+        "productname": "mouse",
+        "imagelink": "https://i.pcmag.com/imagery/reviews/07GiVwaj9sKexfbtCT8gQ1T-2.fit_scale.size_1028x578.v_1569478350.jpg"
+    },
+    {
+        "id": 128,
+        "productID": 128,
+        "tagID": 116,
+        "shoppingplatform": "nike",
+        "price": 100,
+        "weblink": "https://www.nike.com/t/nikecourt-air-max-vapor-wing-premium-mens-tennis-shoe-Ll2RTZ/CT3890-100",
+        "productname": "tennis shoe",
+        "imagelink": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,b_rgb:f5f5f5/2511f9bb-9943-4b7a-aaf9-6d9ab98d727f/nikecourt-air-max-vapor-wing-premium-mens-tennis-shoe-Ll2RTZ.jpg"
+    },
+    {
+        "id": 129,
+        "productID": 129,
+        "tagID": 117,
+        "shoppingplatform": "target",
+        "price": 79.99,
+        "weblink": "https://www.target.com/p/bose-soundlink-micro-bluetooth-speaker/-/A-52980540?preselect=52809001#lnk=sametab",
+        "productname": "speaker",
+        "imagelink": "https://target.scene7.com/is/image/Target/GUEST_213e3eca-9cff-4d62-9b8e-ef8395b005cd?fmt=webp&wid=1400&qlt=80"
+    },
+    {
+        "id": 130,
+        "productID": 130,
+        "tagID": 118,
+        "shoppingplatform": "saks fifth avenue",
+        "price": 145,
+        "weblink": "https://www.saksfifthavenue.com/adriana-orsini-silvertone-cubic-zirconia-medium-hoop-earrings/product/0400012280812?FOLDER%3C%3Efolder_id=2534374306418140&R=664293495167&P_name=Adriana+Orsini&N=306418140+1535+1536+399545627+1537&bmUID=ndfTgYF",
+        "productname": "earrings",
+        "imagelink": "https://cdna.lystit.com/520/650/n/photos/saksfifthavenue/7f4f7987/adriana-orsini-Rhodium-Silvertone-Cubic-Zirconia-Bezel-set-Medium-Hoop-Earrings.jpeg"
+    },
+    {
+        "id": 131,
+        "productID": 131,
+        "tagID": 119,
+        "shoppingplatform": "staples",
+        "price": 169.99,
+        "weblink": "https://www.staples.com/hp-officejet-pro-8025-wireless-color-inkjet-all-in-one-printer-w-smart-tasks-and-hp-instant-ink-1kr57a/product_24392084",
+        "productname": "printer",
+        "imagelink": "https://images-na.ssl-images-amazon.com/images/I/71cb094XmJL._AC_SL1500_.jpg"
+    },
+    {
+        "id": 132,
+        "productID": 132,
+        "tagID": 120,
+        "shoppingplatform": "decathlon",
+        "price": 9.99,
+        "weblink": "https://www.decathlon.com/collections/bike-shorts/products/cycling-bib-shorts-100?",
+        "productname": "cycling shorts",
+        "imagelink": "https://cdn.shopify.com/s/files/1/1330/6287/products/BTWIN_20CUISSARD_20VELO_20ESSENTIAL_20NOIR_20_7C_20PSHOT_02f9940b-629a-41a6-8ad2-c419ba04b235_812x.progressive.jpg?v=1595382886"
+    },
+    {
+        "id": 133,
+        "productID": 133,
+        "tagID": 121,
+        "shoppingplatform": "amazon",
+        "price": 8.99,
+        "weblink": "https://www.amazon.com/Music-Box-Sunshine-Engraved-Christmas/dp/B0865P9Q3Y/ref=sr_1_2_sspa?dchild=1&keywords=music+box&qid=1595584588&sr=8-2-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzQVA0WUlURzAzUFY1JmVuY3J5cHRlZElkPUEwNzE3ODgyNFFTWk03VVFHTjJXJmVuY3J5cHRlZEFkSWQ9QTA0NzM1MTdGTEYxNE5JNVdNOEQmd2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl",
+        "productname": "music box",
+        "imagelink": "https://images-na.ssl-images-amazon.com/images/I/71qnFe5rSgL._AC_SL1455_.jpg"
+    },
+    {
+        "id": 134,
+        "productID": 134,
+        "tagID": 122,
+        "shoppingplatform": "walmart",
+        "price": 3.99,
+        "weblink": "https://www.walmart.com/ip/Cra-Z-Art-Colored-Pencils-24-Count/17094364?wpa_bd=&wpa_pg_seller_id=F55CDC31AB754BB68FE0B39041159D63&wpa_ref_id=wpaqs:p0BPYXvRpIzg7x8yePmgaxgd6IOfd3rCb15haWnYpVVIYPgQAsp6jmUmkwzZFwGZ9YYJoTUwhNTE3zkULQJUA1JHLR0taGMm7BZmLR2izNwX49qNMCG_VQGOOZ9RvfcZDnEqhCvdeYW9KEKssDElJPpYOUAI1k7-c2_-FL62L6KwZAnEF-jgbb0zliz9ZFM_4t1OCtD9WKsGqRyfP49k9w&wpa_tag=&wpa_aux_info=&wpa_pos=7&wpa_plmt=1145x1145_T-C-IG_TI_1-2_HL-INGRID-LIST-NY&wpa_aduid=0f4f3487-3154-4cc5-abc2-f853501b914e&wpa_pg=search&wpa_pg_id=color%20pencil&wpa_st=color%2Bpencil&wpa_tax=1334134_5899871_8703361_5658522&wpa_bucket=__bkt__",
+        "productname": "colored pencils",
+        "imagelink": "https://i5.walmartimages.com/asr/2274fdb5-f877-4715-87c3-13aa2d6e8eac_1.0d4d67c775d90ddaf1b96835738d3aa2.jpeg?odnWidth=undefined&odnHeight=undefined&odnBg=ffffff"
+    },
+    {
+        "id": 135,
+        "productID": 135,
+        "tagID": 123,
+        "shoppingplatform": "staples",
+        "price": 8.99,
+        "weblink": "https://www.staples.com/tru-red-medium-soft-cover-meeting-notebook-black-tr54988/product_24377308",
+        "productname": "notebook",
+        "imagelink": "https://cdn.shopify.com/s/files/1/0745/1299/products/20190702_Nomatic_S_Black_NotebookPlanner_Front_1024x1024.jpg?v=1589778161"
+    },
+    {
+        "id": 136,
+        "productID": 136,
+        "tagID": 124,
+        "shoppingplatform": "nike",
+        "price": 35,
+        "weblink": "https://www.nike.com/t/exploration-series-basketball-t-shirt-MWf4Cp/CD1304-100",
+        "productname": "basketball t-shirt",
+        "imagelink": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,b_rgb:f5f5f5/i1-18368620-1b1a-4cb2-89c3-c837cab642a0/exploration-series-basketball-t-shirt-MWf4Cp.jpg"
+    },
+    {
+        "id": 137,
+        "productID": 137,
+        "tagID": 125,
+        "shoppingplatform": "ebay",
+        "price": 39.99,
+        "weblink": "https://www.ebay.com/itm/Apple-iPod-Nano-4th-Generation-8-GB-SIlver-with-Cord-MP3-Music-Player-Tested/313157108938?hash=item48e99e44ca:g:msEAAOSwZSxfGGBI",
+        "productname": "ipod nano",
+        "imagelink": "https://i.ebayimg.com/images/g/msEAAOSwZSxfGGBI/s-l1600.jpg"
+    },
+    {
+        "id": 138,
+        "productID": 138,
+        "tagID": 126,
+        "shoppingplatform": "walmart",
+        "price": 31.98,
+        "weblink": "https://www.walmart.com/ip/Rainbow-Roses-One-Dozen-Vase-Included/668458495",
+        "productname": "fresh flower",
+        "imagelink": "https://i5.walmartimages.com/asr/71d543f7-59d1-4fbb-9f9f-c3227b94083c_1.19e121c6833a2b081906b0ed5b21f09b.jpeg?odnWidth=undefined&odnHeight=undefined&odnBg=ffffff"
+    },
+    {
+        "id": 139,
+        "productID": 139,
+        "tagID": 127,
+        "shoppingplatform": "macys",
+        "price": 49,
+        "weblink": "https://www.macys.com/shop/product/swarovski-crystalline-pen?ID=4622073&CategoryID=55352&swatchColor=Gold",
+        "productname": "crystalline pen",
+        "imagelink": "https://slimages.macysassets.com/is/image/MCY/products/2/optimized/8413452_fpx.tif?op_sharpen=1&wid=1230&hei=1500&fit=fit,1&$filterxlrg$"
+    },
+    {
+        "id": 140,
+        "productID": 140,
+        "tagID": 128,
+        "shoppingplatform": "decathlon",
+        "price": 99.99,
+        "weblink": "https://www.decathlon.com/collections/snow-boots/products/womens-snow-hiking-boots-x-warm-sh-520?",
+        "productname": "snow hiking shoe",
+        "imagelink": "https://cdn.shopify.com/s/files/1/1330/6287/products/84dc3261-c497-4b6c-9635-a0d9c57fdca5_812x.progressive.jpg?v=1565845479"
+    },
+    {
+        "id": 141,
+        "productID": 141,
+        "tagID": 129,
+        "shoppingplatform": "amazon",
+        "price": 67.99,
+        "weblink": "https://www.amazon.com/Cancelling-Headphones-Bluetooth-Microphone-Cellphone/dp/B077YG22Y9/ref=sr_1_11_sspa?dchild=1&keywords=music+headphone&qid=1595589403&sr=8-11-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFQWTFXNjgxQkNKMVkmZW5jcnlwdGVkSWQ9QTAwNjgzNjQzNlcxT0gzTEFTR1o5JmVuY3J5cHRlZEFkSWQ9QTA0MDM3OTQyQVpPWDZSOFBURU5MJndpZGdldE5hbWU9c3BfbXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==",
+        "productname": "headphone",
+        "imagelink": "https://images-na.ssl-images-amazon.com/images/I/61bMV3oE-8L._AC_SL1010_.jpg"
+    },
+    {
+        "id": 142,
+        "productID": 142,
+        "tagID": 130,
+        "shoppingplatform": "macys",
+        "price": 99.99,
+        "weblink": "https://www.macys.com/shop/product/swarovski-rose-gold-tone-crystal-evil-eye-14-7-8-pendant-necklace?ID=2719133&CategoryID=78234&isDlp=true",
+        "productname": "pendant necklace",
+        "imagelink": "https://slimages.macysassets.com/is/image/MCY/products/9/optimized/3399289_fpx.tif?op_sharpen=1&wid=1230&hei=1500&fit=fit,1&$filterxlrg$"
+    },
+    {
+        "id": 143,
+        "productID": 143,
+        "tagID": 131,
+        "shoppingplatform": "kohls",
+        "price": 57.79,
+        "weblink": "https://www.kohls.com/product/prd-2105651/stonebriar-collection-victoria-station-tabletop-clock.jsp?prdPV=8",
+        "productname": "table clock",
+        "imagelink": "https://media.kohlsimg.com/is/image/kohls/2105651?wid=2048&hei=2048&op_sharpen=1"
+    }
+]
