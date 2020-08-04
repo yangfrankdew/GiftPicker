@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title> Input Update </title>
+</head>
+<body>
+<form action="/inputinsert/" method="post">
+    {% csrf_token %}
+    inputID:<input type="number" name="inputID" value={{ defaultValue.inputID }}>
+    receiverID:<input type="number" name="receiverID" value={{ defaultValue.receiverID }}>
+    hobby:<input type="text" name="hobby" value={{ defaultValue.hobby }}>
+    age:<input type="number" name="age" value={{ defaultValue.age }}>
+    relationship:<input type="text" name="relationship" value={{ defaultValue.relationship }}>
+    budget:<input type="number" step="0.01" name="budget" value={{ defaultValue.budget }}>
+    occasion:<input type="text" name="occasion" value={{ defaultValue.occasion }}>
+    customerID:<input type="text" name="customerID" value={{ defaultValue.customerID }}>
+    <input type="submit" value="UPDATE">
+</form>
+</body>
+</html>

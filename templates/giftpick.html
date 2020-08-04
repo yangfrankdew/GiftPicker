@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title> Find Gift </title>
+
+    <style>
+    .button {
+    border-radius: 20px;
+    border: 1px solid #ff4b2b;
+    background-color: #ff4b2b;
+    color: #ffffff;
+    font-size: 12px;
+    font-weight: bold;
+    padding: 12px 45px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    transition: transform 80ms ease-in;
+}
+
+.button:active {
+    transform: scale(0.95);
+}
+
+.button:focus {
+    outline: none;
+}
+
+.button.ghost {
+    background-color: transparent;
+    border-color: #ffffff;
+}
+
+
+
+form {
+    background-color: #ffffff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 0 50px;
+    height: 100%;
+    text-align: center;
+}
+
+input {
+    background-color: #eee;
+    border: 1px solid #999;
+    padding: 12px 15px;
+    margin: 8px 0;
+    width: 300;
+}
+
+label {
+  /* 确保所有label大小相同并正确对齐 */
+  display: inline-block;
+  width: 100px;
+  text-align: right;
+}
+.img1{
+    text-align:center;
+}
+
+    </style>
+</head>
+
+
+<body style="background-image:url(https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1596407315282&di=7177393380e0bcc4179ad908cc1512a3&imgtype=0&src=http%3A%2F%2Fc-ssl.duitang.com%2Fuploads%2Fblog%2F201510%2F25%2F20151025131134_ThHkG.jpeg);background-size: cover">
+{% load static %}
+<div class="img1">
+<img  width="150" height="150" src="{% static "/images/wrapped-gift.gif" %}">
+</div>
+<h1  align="center"> <font size="10" face="Verdana" style="color:darkred"> Gift Picker </font></h1>
+
+
+
+<form action="/findgift/" method="post" style="background: none">
+    {% csrf_token %}
+    <div>
+        <label for="name">Name:</label>
+    <input type="text" id="name" name="customerID" required style="background-color: rgba(255, 255, 255, 0.5)" value={{ defaultValue.customerID }} ></br>
+    </div>
+    <div>
+    <label for="age">Age:</label>
+    <input type="number" id="age" name="age" required style="background-color: rgba(255, 255, 255, 0.5)" value={{ defaultValue.age }}></br>
+    </div>
+    <div>
+        <label for="relationship">Relationship:</label>
+    <input type="text" id="relationship" name="relationship" required style="background-color: rgba(255, 255, 255, 0.5)" value={{ defaultValue.relationship }}></br>
+    </div>
+    <div>
+        <label for="hobby">Hobby:</label>
+    <input type="text" id="hobby" name="hobby" required style="background-color: rgba(255, 255, 255, 0.5)" value={{ defaultValue.hobby }}></br>
+    </div>
+
+    <div>
+        <label for="budget">Budget:</label>
+    <input type="number" id="budget" step="0.01" required style="background-color: rgba(255, 255, 255, 0.5)" name="budget" value={{ defaultValue.budget }}></br>
+    </div>
+
+    <div>
+        <label for="occasion">Occasion:</label>
+    <input type="text" id="occasion" name="occasion" required style="background-color: rgba(255, 255, 255, 0.5)" value={{ defaultValue.occasion }}></br>
+    </div>
+
+    <input class="button" type="submit" value="SUBMIT YOUR REQUEST">
+
+</form>
+
+<p align="right" >
+<font size="2" face="Verdana">
+    Team TieBaDui
+</font>
+
+</p>
+
+</body>
+</html>

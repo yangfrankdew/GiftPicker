@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title> Product-Tag Search </title>
+</head>
+<body>
+<h1>Product - Tag</h1>
+<table border="8">
+    <thead>
+    <tr>
+        <th>productID</th>
+        <th>tagID</th>
+        <th>shoppingplatform</th>
+        <th>price</th>
+        <th>weblink</th>
+        <th>productname</th>
+        <th>imagelink</th>
+        <th>hobby</th>
+        <th>age</th>
+        <th>relationship</th>
+        <th>budget</th>
+        <th>occasion</th>
+    </tr>
+    </thead>
+    <tbody>
+    {% for r in producttagsearch %}
+    <tr>
+        <td>{{ r.productID }}</td>
+        <td>{{ r.tagID }}</td>
+        <td>{{ r.shoppingplatform }}</td>
+        <td>{{ r.price }}</td>
+        <td><a href="{{ r.weblink }}">Click me!</a></td>
+        <td>{{ r.productname }}</td>
+        <td><img width="80" height="80" src="{{ r.imagelink }}"></td>
+        <td>{{ r.hobby }}</td>
+        <td>{{ r.age }}</td>
+        <td>{{ r.relationship }}</td>
+        <td>{{ r.budget }}</td>
+        <td>{{ r.occasion }}</td>
+    </tr>
+    {% endfor %}
+    </tbody>
+</table>
+</body>
+</html>

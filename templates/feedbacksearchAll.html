@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title> Feedback Search </title>
+</head>
+<body>
+<h1>Feedback</h1>
+<table border="8">
+    <thead>
+    <tr>
+        <th>feedbackID</th>
+        <th>satisfactionvalue</th>
+        <th>sendID</th>
+        <th>receiverID</th>
+        <th>customerID</th>
+        <th>productID</th>
+        <th>delete</th>
+        <th>change</th>
+    </tr>
+    </thead>
+    <tbody>
+    {% for r in feedbacksearchAll %}
+    <tr>
+        <td>{{ r.feedbackID }}</td>
+        <td>{{ r.satisfactionvalue }}</td>
+        <td>{{ r.sendID }}</td>
+        <td>{{ r.receiverID }}</td>
+        <td>{{ r.customerID }}</td>
+        <td>{{ r.productID }}</td>
+        <td>
+            <button onclick="javascrtpt:window.location.href='http://127.0.0.1:8000/feedbackdelete?feedbackID={{ r.feedbackID }}'">delete</button>
+        </td>
+        <td>
+            <button onclick="javascrtpt:window.location.href='http://127.0.0.1:8000/feedbackchange?feedbackID={{ r.feedbackID }}'">change</button>
+        </td>
+    </tr>
+    {% endfor %}
+    </tbody>
+</table>
+<button onclick="javascrtpt:window.location.href='http://127.0.0.1:8000/feedbackinsert/'">
+    Insert
+</button>
+</body>
+</html>

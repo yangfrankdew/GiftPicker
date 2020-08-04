@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title> Input Search </title>
+</head>
+<body>
+<h1>Input</h1>
+<table border="8">
+    <thead>
+    <tr>
+        <th>inputID</th>
+        <th>receiverID</th>
+        <th>hobby</th>
+        <th>age</th>
+        <th>relationship</th>
+        <th>budget</th>
+        <th>occasion</th>
+        <th>customerID</th>
+        <th>delete</th>
+        <th>change</th>
+    </tr>
+    </thead>
+    <tbody>
+    {% for r in inputsearchAll %}
+    <tr>
+        <td>{{ r.inputID }}</td>
+        <td>{{ r.receiverID }}</td>
+        <td>{{ r.hobby }}</td>
+        <td>{{ r.age }}</td>
+        <td>{{ r.relationship }}</td>
+        <td>{{ r.budget }}</td>
+        <td>{{ r.occasion }}</td>
+        <td>{{ r.customerID }}</td>
+        <td>
+            <button onclick="javascrtpt:window.location.href='http://127.0.0.1:8000/inputdelete?inputID={{ r.inputID }}'">delete</button>
+        </td>
+        <td>
+            <button onclick="javascrtpt:window.location.href='http://127.0.0.1:8000/inputchange?inputID={{ r.inputID }}'">change</button>
+        </td>
+    </tr>
+    {% endfor %}
+    </tbody>
+</table>
+<button onclick="javascrtpt:window.location.href='http://127.0.0.1:8000/inputinsert/'">
+    Insert
+</button>
+</body>
+</html>

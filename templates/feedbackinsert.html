@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title> Feedback Update </title>
+</head>
+<body>
+<form action="/feedbackinsert/" method="post">
+    {% csrf_token %}
+    feedbackID:<input type="number" name="feedbackID" value={{ defaultValue.feedbackID }}>
+    satisfactionvalue:<input type="number" name="satisfactionvalue" value={{ defaultValue.satisfactionvalue }}>
+    sendID:<input type="number" name="sendID" value={{ defaultValue.sendID }}>
+    receiverID:<input type="number" name="receiverID" value={{ defaultValue.receiverID }}>
+    customerID:<input type="text" name="customerID" value={{ defaultValue.customerID }}>
+    productID:<input type="number" name="productID" value={{ defaultValue.productID }}>
+    <input type="submit" value="UPDATE">
+</form>
+</body>
+</html>

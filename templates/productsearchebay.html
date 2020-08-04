@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title> Product Search </title>
+</head>
+<body>
+<h1>Product from ebay</h1>
+<table border="8">
+    <thead>
+    <tr>
+        <th>productID</th>
+        <th>tagID</th>
+        <th>shoppingplatform</th>
+        <th>price</th>
+        <th>weblink</th>
+        <th>productname</th>
+        <th>imagelink</th>
+        <th>delete</th>
+        <th>change</th>
+    </tr>
+    </thead>
+    <tbody>
+    {% for r in productsearchebay %}
+    <tr>
+        <td>{{ r.productID }}</td>
+        <td>{{ r.tagID }}</td>
+        <td>{{ r.shoppingplatform }}</td>
+        <td>{{ r.price }}</td>
+        <td><a href="{{ r.weblink }}">Click me!</a></td>
+        <td>{{ r.productname }}</td>
+        <td><img width="80" height="80" src="{{ r.imagelink }}"></td>
+        <td>
+            <button onclick="javascrtpt:window.location.href='http://127.0.0.1:8000/productdelete?productID={{ r.productID }}'">delete</button>
+        </td>
+        <td>
+            <button onclick="javascrtpt:window.location.href='http://127.0.0.1:8000/productchange?productID={{ r.productID }}'">change</button>
+        </td>
+    </tr>
+    {% endfor %}
+    </tbody>
+</table>
+<button onclick="javascrtpt:window.location.href='http://127.0.0.1:8000/productinsert/'">
+    Insert
+</button>
+</body>
+</html>

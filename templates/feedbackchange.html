@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<form action="/feedbackchange/" method="post">
+    {% csrf_token %}
+    feedbackID:<input type="number" name="feedbackID" >
+    satisfactionvalue:<input type="number" name="satisfactionvalue" >
+    sendID:<input type="number" name="sendID" >
+    receiverID:<input type="number" name="receiverID" >
+    customerID:<input type="text" name="customerID" >
+    productID:<input type="number" name="productID" >
+    <input type="submit" value="CHANGE">
+</form>
+</body>
+</html>

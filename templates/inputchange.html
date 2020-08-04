@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<form action="/productchange/" method="post">
+    {% csrf_token %}
+    inputID:<input type="number" name="inputID" >
+    receiverID:<input type="number" name="receiverID" >
+    hobby:<input type="text" name="hobby" >
+    age:<input type="number" name="age" >
+    relationship:<input type="text" name="relationship" >
+    budget:<input type="number" step="0.01" name="budget" >
+    occasion:<input type="text" name="occasion" >
+    customerID:<input type="text" name="customerID" >
+    <input type="submit" value="CHANGE">
+</form>
+</body>
+</html>

@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title> Send Search </title>
+</head>
+<body>
+<h1>Send</h1>
+<table border="8">
+    <thead>
+    <tr>
+        <th>sendID</th>
+        <th>receiverID</th>
+        <th>customerID</th>
+        <th>productID</th>
+        <th>inputID</th>
+        <th>delete</th>
+        <th>change</th>
+    </tr>
+    </thead>
+    <tbody>
+    {% for r in sendsearchAll %}
+    <tr>
+        <td>{{ r.sendID }}</td>
+        <td>{{ r.receiverID }}</td>
+        <td>{{ r.customerID }}</td>
+        <td>{{ r.productID }}</td>
+        <td>{{ r.inputID }}</td>
+        <td>
+            <button onclick="javascrtpt:window.location.href='http://127.0.0.1:8000/senddelete?sendID={{ r.sendID }}'">delete</button>
+        </td>
+        <td>
+            <button onclick="javascrtpt:window.location.href='http://127.0.0.1:8000/sendchange?sendID={{ r.sendID }}'">change</button>
+        </td>
+    </tr>
+    {% endfor %}
+    </tbody>
+</table>
+<button onclick="javascrtpt:window.location.href='http://127.0.0.1:8000/sendinsert/'">
+    Insert
+</button>
+</body>
+</html>

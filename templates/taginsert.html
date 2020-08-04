@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title> Tag Update </title>
+</head>
+<body>
+<form action="/taginsert/" method="post">
+    {% csrf_token %}
+    tagID:<input type="number" name="tagID" value={{ defaultValue.tagID }}>
+    hobby:<input type="text" name="hobby" value={{ defaultValue.hobby }}>
+    age:<input type="number" name="age" value={{ defaultValue.age }}>
+    relationship:<input type="text" name="relationship" value={{ defaultValue.relationship }}>
+    budget:<input type="number" step="0.01" name="budget" value={{ defaultValue.budget }}>
+    occasion:<input type="text" name="occasion" value={{ defaultValue.occasion }}>
+    <input type="submit" value="UPDATE">
+</form>
+</body>
+</html>

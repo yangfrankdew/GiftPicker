@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<form action="/productchange/" method="post">
+    {% csrf_token %}
+    productID:<input type="number" name="productID">
+    tagID:<input type="number" name="tagID">
+    shoppingplatform:<input type="text" name="shoppingplatform">
+    price:<input type="" step=0.01 name="price">
+    weblink:<input type="url" name="weblink">
+    productname:<input type="text" name="productname">
+    imagelink:<input type="url" name="imagelink">
+    <input type="submit" value="CHANGE">
+</form>
+</body>
+</html>

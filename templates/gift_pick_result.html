@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title> Get Your Gift Today! </title>
+
+<style>
+.table11_3 table {
+width:100%;
+margin:15px 0;
+border:0;
+align-content: center;
+
+}
+.table11_3 th {
+background-color:#FF5675;
+color:#FFFFFF
+}
+.table11_3,.table11_3 th,.table11_3 td {
+font-size:0.95em;
+text-align:center;
+padding:4px;
+border-collapse:collapse;
+}
+.table11_3 th,.table11_3 td {
+border: 1px solid #fe2047;
+border-width:1px 0 1px 0;
+border:2px inset #ffffff;
+}
+.table11_3 tr {
+border: 1px solid #ffffff;
+}
+.table11_3 tr:nth-child(odd){
+background-color:#fec6d1;
+}
+.table11_3 tr:nth-child(even){
+background-color:#ffffff;
+}
+    .img2{
+        text-align:center;
+    }
+</style>
+
+</head>
+<body style="background-image:url(https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1596407315282&di=7177393380e0bcc4179ad908cc1512a3&imgtype=0&src=http%3A%2F%2Fc-ssl.duitang.com%2Fuploads%2Fblog%2F201510%2F25%2F20151025131134_ThHkG.jpeg);background-size: cover">
+{% load static %}
+<div class="img2">
+<img width="180" height="150" src="{% static "/images/unwrapped_gift.gif" %}">
+</div>
+
+<h1 align="center">Get Your Gift Today!</h1>
+
+<table class="table11_3" border="4" align="center" width="80%">
+    <thead>
+    <tr>
+        <th>Gift Name</th>
+        <th>Platform</th>
+        <th>Price/$</th>
+        <th>Purchase link</th>
+        <th>Image</th>
+    </tr>
+    </thead>
+    <tbody>
+    {% for r in giftpickresult %}
+    <tr>
+        <td>{{ r.productname }}</td>
+        <td>{{ r.shoppingplatform }}</td>
+        <td>{{ r.price }}</td>
+        <td><a href="{{ r.weblink }}">Click me!</a></td>
+        <td><img width="80" height="80" src="{{ r.imagelink }}"></td>
+    </tr>
+    {% endfor %}
+    </tbody>
+</table>
+</body>
+</html>

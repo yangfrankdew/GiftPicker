@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title> Send Update </title>
+</head>
+<body>
+<form action="/sendinsert/" method="post">
+    {% csrf_token %}
+    sendID:<input type="number" name="sendID" value={{ defaultValue.sendID }}>
+    receiverID:<input type="number" name="receiverID" value={{ defaultValue.receiverID }}>
+    customerID:<input type="number" name="customerID" value={{ defaultValue.customerID }}>
+    productID:<input type="number" name="productID" value={{ defaultValue.productID }}>
+    inputID:<input type="number" name="inputID" value={{ defaultValue.inputID }}>
+    <input type="submit" value="UPDATE">
+</form>
+</body>
+</html>
