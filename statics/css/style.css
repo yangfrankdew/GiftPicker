@@ -1,0 +1,80 @@
+.alert{
+    text-align: center;
+    padding:10px;
+    background:#79c879;
+    color:#fff;
+    margin-bottom:10px;
+    display: none;
+}
+
+/* */
+
+
+
+
+  button {
+    border-radius: 20px;
+    border: 1px solid #ff4b2b;
+    background-color: #ff4b2b;
+    color: #ffffff;
+    font-size: 12px;
+    font-weight: bold;
+    padding: 12px 45px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    transition: transform 80ms ease-in;
+}
+
+button:active {
+    transform: scale(0.95);
+}
+
+button:focus {
+    outline: none;
+}
+
+button.ghost {
+    background-color: transparent;
+    border-color: #ffffff;
+}
+
+
+
+form {
+    background-color: #ffffff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 0 50px;
+    height: 100%;
+    text-align: center;
+}
+
+input {
+    background-color: #eee;
+    border: none;
+    padding: 12px 15px;
+    margin: 8px 0;
+    width: 300;
+}
+
+label {
+  /* 确保所有label大小相同并正确对齐 */
+  display: inline-block;
+  width: 90px;
+  text-align: right;
+}
+
+input, textarea {
+  /* 确保所有文本输入框字体相同
+     textarea默认是等宽字体 */
+  font: 1em sans-serif;
+
+  /* 使所有文本输入框大小相同 */
+  width: 300px;
+  box-sizing: border-box;
+
+  /* 调整文本输入框的边框样式 */
+  border: 1px solid #999;
+}
